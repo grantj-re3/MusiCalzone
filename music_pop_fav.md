@@ -38,7 +38,7 @@ A Man I'll Never Be     | Boston (1978)          | Tom Scholz                   
 September Morn          | Neil Diamond (1979) | Gilbert Bécaud, Neil Diamond   | [Audio](https://www.youtube.com/watch?v=zEuOkapb-_o)
 Still                   | Commodores (1979)   | Lionel Richie                  | [Audio](https://www.youtube.com/watch?v=-oTxaL2NDkc)
 I Can't Tell You Why    | Eagles (1980)       | Timothy B. Schmit, Glenn Frey, Don Henley | [Video](https://www.youtube.com/watch?v=iP97m8jwRfE)
-The Winner Takes It All | ABBA (1980)         | Benny Andersson, Björn Ulvaeus | [Audio](https://www.youtube.com/watch?v=92cwKCU8Z5c&ob=av2nm), [Video](https://www.youtube.com/watch?v=iyIOl-s7JTU)
+The Winner Takes It All | ABBA (1980)         | Benny Andersson, Björn Ulvaeus | [Audio](https://www.youtube.com/watch?v=92cwKCU8Z5c), [Video](https://www.youtube.com/watch?v=iyIOl-s7JTU)
 Against All Odds        | Phil Collins (1984) | Phil Collins                   | [Audio](https://www.youtube.com/watch?v=CkGg1bzfSys)
 Bring Him Home (from the musical *Les Misérables*) | Colm Wilkinson (1985)              | Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel, Herbert Kretzmer | [Video](https://www.youtube.com/watch?v=qsYnhVITf9E)
 Laughing Into 1939           | Al Stewart (1995)                  | Al Stewart                                                                | [Audio](https://www.youtube.com/watch?v=jmuPs1vD8Ew)
