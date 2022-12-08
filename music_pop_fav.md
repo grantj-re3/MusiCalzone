@@ -54,3 +54,25 @@ Bluebird (ブルーバード) (from the anime series Naruto Shippuden (ナルト
 With You (from the musical *Ghost*) | Caissie Levy (2011)         | Dave Stewart, Glen Ballard                                                | [Audio](https://www.youtube.com/watch?v=VHQ0FmUtS0E), [Video BGT](https://www.youtube.com/watch?v=nuxRztsMNzg)
 We All Fall in Love Sometimes       | Coldplay (2018)             | Elton John, Bernie Taupin (1974)                                          | [Audio Coldplay/CM](https://www.youtube.com/watch?v=Pw3c4E7AuNY), [Video CM](https://vimeo.com/297352018), [Audio EJ](https://www.youtube.com/watch?v=6LwajEQ7IOA), [Video EJ 0:00-4:16](https://www.youtube.com/watch?v=8JoAC8rBxac)
 
+
+# Notes
+
+I have too many favourite songs to list them all here,
+so I've imposed a few restrictions to help keep the list
+shortish. The guidelines are:
+
+- Music from the 1950s and newer
+- No more than 5 or so songs per year; difficult to do this for the 1970s
+- Only one song by any performer; difficult to do this for many artists,
+  but especially my favourite artists
+
+Favourite artists: Al Stewart, Kansas, Little River Band,
+Eagles, Queen, Carpenters, Beatles and Elton John.
+Al Stewart and Kansas get a special mention since they
+consistently have depth to their lyrics.  
+
+Favourite voice: Perhaps Karen Carpenter
+
+Favourite song writers / composers: Al Stewart, Kerry Livgren,
+Graham Goble, Burt Bacharach and Carole King
+
