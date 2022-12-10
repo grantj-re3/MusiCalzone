@@ -32,7 +32,7 @@ Wildfire              | Michael Murphey (1975)   | Michael Murphey, Larry Cansle
 I Need to Be in Love  | Carpenters <sup>[h](https://www.richardandkarencarpenter.com/), [w](https://en.wikipedia.org/wiki/The_Carpenters), [y](https://www.youtube.com/@carpenters)</sup> (1976) | Richard Carpenter, Albert Hammond, John Bettis | [Audio](https://www.youtube.com/watch?v=5sYoepCsTTM), [Video](https://www.youtube.com/watch?v=mTVpNXG7iBk)
 Rock'n Me             | Steve Miller Band (1976) | Steve Miller                                   | [Video](https://www.youtube.com/watch?v=pIF9hCgImTY)
 Shannon               | Henry Gross (1976)       | Henry Gross                                    | [Video](https://www.youtube.com/watch?v=A822OKFMQTM)
-Turn the Beat Around | Vicki Sue Robinson (1976) | Gerald Jackson, Peter Jackson                  | [Audio](https://www.youtube.com/watch?v=vz9pZW5OvM4), [Video](https://www.youtube.com/watch?v=95eWL8s_wRc)
+Turn the Beat Around | Vicki Sue Robinson (1976) | Gerald Jackson, Peter Jackson                  | [Audio](https://www.youtube.com/watch?v=vz9pZW5OvM4), [Video](https://www.youtube.com/watch?v=95eWL8s_wRc), [Video GE](https://www.youtube.com/watch?v=p0vK4tjJZvI)
 Baby Come Back        | Player (1977)            | Peter Beckett, J.C. Crowley                    | [Video](https://www.youtube.com/watch?v=Hn-enjcgV1o)
 Dust in the Wind      | Kansas (1977)            | Kerry Livgren                                  | [Video](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 Just the Way You Are  | Billy Joel (1977)        | Billy Joel                                     | [Audio](https://www.youtube.com/watch?v=dBqyX0UUzVQ), [Video](https://www.youtube.com/watch?v=tJWM5FmZyqU)
