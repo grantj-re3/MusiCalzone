@@ -8,7 +8,7 @@ On the Street Where You Live (from the musical *My Fair Lady*) | Bill Shirley (1
 Downtown                    | Petula Clark (1964)                 | Tony Hatch                | [Audio](https://www.youtube.com/watch?v=z_m4Qb0iW-o), [Video](https://www.youtube.com/watch?v=Zx06XNfDvk0)
 Can't Take My Eyes Off You  | Frankie Valli (1967)                | Bob Crewe, Bob Gaudio     | [Audio](https://www.youtube.com/watch?v=J36z7AnhvOM), [Video](https://www.youtube.com/watch?v=RbnXASVV--M)
 Happy Together              | Turtles (1967)                      | Garry Bonner, Alan Gordon | [Audio](https://www.youtube.com/watch?v=pSw8an1u3rc), [Video](https://www.youtube.com/watch?v=mRCe5L1imxg)
-Windy                       | Association (1967)                  | Ruthann Friedman          | [Audio](https://www.youtube.com/watch?v=Qa9mGMdwv0g), [Video](https://www.youtube.com/watch?v=RsY8l0Jg3lY)
+Windy              | [Association](artists/Association.md) (1967) | Ruthann Friedman          | [Audio](https://www.youtube.com/watch?v=Qa9mGMdwv0g), [Video](https://www.youtube.com/watch?v=RsY8l0Jg3lY)
 Dream a Little Dream of Me  | Mamas & the Papas (1968)            | Fabian Andre, Wilbur Schwandt, Gus Kahn (1931) | [Audio](https://www.youtube.com/watch?v=fJwjLYRPxJY), [Video CE](https://www.youtube.com/watch?v=ZZ0PZRYin2s)
 This Guy's in Love with You | Herb Alpert (1968)                  | Burt Bacharach, Hal David | [Audio](https://www.youtube.com/watch?v=pvQMyVoefNI), [Video](https://www.youtube.com/watch?v=o8ByJ1C0iR4)
 The Long and Winding Road   | Beatles (1970)                      | Paul McCartney            | [Audio](https://www.youtube.com/watch?v=fR4HjTH_fTM), [Video](https://www.youtube.com/watch?v=oz3JlMhgfq0)
@@ -17,6 +17,7 @@ Go Away Little Girl         | Donny Osmond (1971)                 | Gerry Goffin
 Hey Tonight                 | Creedence Clearwater Revival (1971) | John Fogerty              | [Audio](https://www.youtube.com/watch?v=7ByQ0Ne3SMU), [Video JF](https://www.youtube.com/watch?v=jmFHqn0Z0hg)
 You've Got a Friend         | Carole King (1971)                  | Carole King               | [Audio](https://www.youtube.com/watch?v=eAR_Ff5A8Rk), [Video](https://www.youtube.com/watch?v=qde5NMy7WTU)
 Alone Again (Naturally)     | Gilbert O'Sullivan (1972)           | Gilbert O'Sullivan        | [Video](https://www.youtube.com/watch?v=D_P-v1BVQn8)
+I Am a Clown                | David Cassidy (1972)                | Tony Romeo                | [Audio](https://www.youtube.com/watch?v=XvJ3fKWiqvI), [Video](https://www.youtube.com/watch?v=bOL5P8t7e5w)
 It Never Rains in Southern California | Albert Hammond (1972) | Albert Hammond, Mike Hazlewood | [Video](https://www.youtube.com/watch?v=Gmq4WIjQxp0)
 Midnight Train to Georgia   | Gladys Knight & the Pips (1973)     | Jim Weatherly             | [Audio](https://www.youtube.com/watch?v=A0F9lh8TiSM), [Video1](https://www.youtube.com/watch?v=NQHW2PQx42w), [Video2](https://www.youtube.com/watch?v=K2PeC1MkAZE)
 Reelin' In the Years  | Steely Dan (1973)        | Walter Becker, Donald Fagen                    | [Audio](https://www.youtube.com/watch?v=GaH25Sghoqc), [Video](https://www.youtube.com/watch?v=mWF1v7W70wU)
@@ -50,21 +51,21 @@ The Prayer                   | Celine Dion, Andrea Bocelli (1999) | David Foster
 Tighinn Air A'Mhuir Am Fear A Phosas Mi (Coming on the sea is the one I'll marry) | Capercaillie <sup>[w](https://en.wikipedia.org/wiki/Capercaillie_(band)), [y](https://www.youtube.com/channel/UCJJElavvVDxQ040tqVew5fQ)</sup> (2000) | Traditional | [Audio](https://www.youtube.com/watch?v=P85ObJlEyc4), [Video 5:32-9:26](https://www.youtube.com/watch?v=d3ygasXa-W8&t=5m32s)
 While My Guitar Gently Weeps | Jake Shimabukuro (2006)            | George Harrison (1968)                                                    | [Video1 JS](https://www.youtube.com/watch?v=puSkP3uym5k), [Video2 JS+TE](https://www.youtube.com/watch?v=J5qakFIecBU), [Video3 GH](https://www.youtube.com/watch?v=XzSrShbqlz8)
 Taking the Long Way          | Dixie Chicks (2007)                | Martie Maguire, Natalie Maines, Emily Strayer, Dan Wilson                 | [Video1](https://www.youtube.com/watch?v=s5HKLteH9Mc), [Video2](https://www.youtube.com/watch?v=h58iGepQrFM)
-Bluebird (ブルーバード) (from the anime series Naruto Shippuden (ナルト 疾風伝)) | Ikimono-gakari (いきものがかり) (2008) | Yoshiki Mizuno (水野良樹) | [Video1](https://www.youtube.com/watch?v=T_lDH7Hh9zA), [Video2](https://www.youtube.com/watch?v=RlDEJ-5_FDc)
+Bluebird (ブルーバード) (from the anime series *Naruto Shippuden* (ナルト 疾風伝)) | Ikimono-gakari (いきものがかり) (2008) | Yoshiki Mizuno (水野良樹) | [Video1](https://www.youtube.com/watch?v=T_lDH7Hh9zA), [Video2](https://www.youtube.com/watch?v=RlDEJ-5_FDc)
 With You (from the musical *Ghost*) | Caissie Levy (2011)         | Dave Stewart, Glen Ballard                                                | [Audio](https://www.youtube.com/watch?v=VHQ0FmUtS0E), [Video BGT](https://www.youtube.com/watch?v=nuxRztsMNzg)
 We All Fall in Love Sometimes       | Coldplay (2018)             | Elton John, Bernie Taupin (1974)                                          | [Audio Coldplay/CM](https://www.youtube.com/watch?v=Pw3c4E7AuNY), [Video CM](https://vimeo.com/297352018), [Audio EJ](https://www.youtube.com/watch?v=6LwajEQ7IOA), [Video EJ 0:00-4:16](https://www.youtube.com/watch?v=8JoAC8rBxac)
 
 
-# Notes
+## Notes
 
 I have too many favourite songs to list them all here,
 so I've imposed a few restrictions to help keep the list
 shortish. The guidelines are:
 
 - Music from the 1950s and newer
-- No more than 5 or so songs per year; difficult to do this for the 1970s
-- Only one song by any performer; difficult to do this for many artists,
-  but especially my favourite artists
+- No more than 5 or so songs per year (difficult for me to do this for the 1970s)
+- Only one song by any performer (difficult for me to do this for many artists,
+  but especially my favourite artists)
 
 Favourite artists: Al Stewart, Kansas, Little River Band,
 Eagles, Queen, Carpenters, Beatles and Elton John.
