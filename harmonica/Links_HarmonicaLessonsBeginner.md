@@ -13,7 +13,7 @@
    - [Tomlin Leckie | The Best Way To Practice Harmonica | 2017](https://www.youtube.com/watch?v=V6sdg4WkHFA)
    - [Tomlin Leckie | Piano Man by Billy Joel: Beginner Harmonica Lesson + Free Tabs (video) | 2016](https://www.youtube.com/watch?v=xWeHrVvSlbY)
 
-1. [Harmonica com | Beginner Harmonica Lessons | 2017-2022](https://www.youtube.com/playlist?list=PLXkDrumJcCw0PdsYe4xFSF9c9-v2v7969)
+1. [Harmonica com | Beginner Harmonica Lessons (video playlist) | c.2017-2022](https://www.youtube.com/playlist?list=PLXkDrumJcCw0PdsYe4xFSF9c9-v2v7969)
    - Good (unstructured) lessons.
-
+   - [Harmonica com | How to Play Heart of Gold on Harmonica (A Step-By-Step Guide) (video) | 2022](https://www.youtube.com/watch?v=HRCV6ZGlXbo)
 
