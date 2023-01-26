@@ -2,6 +2,15 @@
 
 1. [Mitch Grainger | Step-by-Step Harmonica Lessons (video playlist) | c.2012-2020](https://www.youtube.com/playlist?list=PLk88YC8f3cIt5lgVW6oqLIAcjWJ81tYfx)
    - Five great structured beginner lessons.
+   - A summary of the content is given [here](https://harmonicatime.com/step-by-step-harmonica-lessons/).
+     The first five lessons are available free on YouTube (links below).
+     More content is available via [membership plans](https://harmonicatime.com/pricing/).
+   - [Lesson 1](https://www.youtube.com/watch?v=ddM5RlWSJ4E)
+   - [Lesson 2](https://www.youtube.com/watch?v=2d7EuV7PvoE)
+   - [Lesson 3](https://www.youtube.com/watch?v=5Qr9mtT76Kc)
+   - [Lesson 4](https://www.youtube.com/watch?v=GhT2Odlz2uI)
+   - [Lesson 5 - Bending Notes](https://www.youtube.com/watch?v=JtK2Mw8B_wY)
+
 
 1. [Tomlin Leckie | Beginner Harmonica Lessons (video playlist) | c.2015-2022](https://www.youtube.com/playlist?list=PLZbYT_90MeIwzz-yIIdZ9C1vt6ntZnnYh)
    - Good (unstructured) lessons. In addition to this playlist, there are some great lessons/videos below.
