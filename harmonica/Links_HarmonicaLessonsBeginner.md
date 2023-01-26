@@ -10,7 +10,7 @@
    - [Tomlin Leckie | Harmonica 2 hole draw problem (How to play a clean 2 hole draw) (video) | 2017](https://www.youtube.com/watch?v=QTzyM-mq7Qc)
    - [Tomlin Leckie | 8 Tips For Bending On Harmonica - Beginner Harmonica Lesson (video) | 2017](https://www.youtube.com/watch?v=cbiOtr_pNyk)
    - [Tomlin Leckie | Top 5 Mistakes That Beginner Harmonica Players Make (video) | 2017](https://www.youtube.com/watch?v=naumP9nxAhI)
-   - [Tomlin Leckie | The Best Way To Practice Harmonica | 2017](https://www.youtube.com/watch?v=V6sdg4WkHFA)
+   - [Tomlin Leckie | The Best Way To Practice Harmonica (video) | 2017](https://www.youtube.com/watch?v=V6sdg4WkHFA)
    - [Tomlin Leckie | Piano Man by Billy Joel: Beginner Harmonica Lesson + Free Tabs (video) | 2016](https://www.youtube.com/watch?v=xWeHrVvSlbY)
 
 1. [Harmonica com | Beginner Harmonica Lessons (video playlist) | c.2017-2022](https://www.youtube.com/playlist?list=PLXkDrumJcCw0PdsYe4xFSF9c9-v2v7969)
