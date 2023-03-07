@@ -17,7 +17,7 @@
      * Like using a paint brush
      * [Fiddlerman | Finger Flexibility for Smooth Bow Changes | 2011](https://www.youtube.com/watch?v=aZ_y3645vYM)
        + Demo of how to hold the bow;
-         Your fingers need to be comfortably together rather than spread
+         Your fingers need to be comfortably together rather than spread;
          The tip of your pinky should be on top of the [frog]
        + Your right elbow should lead the motion
        + Practice while applying more pressure than usual to develop the timing and correct feeling
@@ -40,4 +40,8 @@
    1. Exercise: Get to know your bow; make the bow jump on purpose; experiment to find where your bow bounces
    1. Practice switching between bowing techniques
    1. Avoid coffee/caffeine, etc. before your performance
+
+1. [professorV - Todd Ehle | Get Control of your Bouncing Violin Bow | 2018](https://www.youtube.com/watch?v=TJ_sZTc2Hl0)
+   - Lean back to flatten [lift] the instrument
+   - Raise right arm/elbow to tilt the bow; the stick tilts towards the scroll
 
