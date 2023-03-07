@@ -24,8 +24,8 @@
    - "Place your bent right thumb so that half of its tip rests on the lip of the frog and half of it rests on the bow stick (Fig. 3)."
 
 1. [VIOLIN LOUNGE by Violinist Zlata | FREE Violin Lesson #2 for Beginners | BOW HOLD (video) | 2018](https://www.youtube.com/watch?v=954xC5JrTrU)
-   - [-1m10s] Thumb: Bow stick rests on the corner of your thumbnail [and thumbnail faces the bow tip];
-     This is a little different from descriptions by some of the other teachers
+   - [0m28s-1m10s] Thumb: Bow stick rests on the corner of your thumbnail [and thumbnail faces the bow tip];
+     This thumb position is a little different from descriptions by some of the other teachers
 
 1. [Violinmasterclass | Bow Grip (playlist) | c.2012](https://www.youtube.com/playlist?list=PLkxFKgaccJrTWMtz_FjsVoo-q2l5rAf8D)
    - [Bow Grip](https://www.youtube.com/watch?v=w_hGdGVruH8) 
@@ -42,6 +42,6 @@
    - Exercise for thumb and index finger
    - Exercise for thumb and pinky
 
-1. [Violinist.com - Laurie Niles | Violin Bow hold: Bend Thumb All the Way to Hair? | 2021](https://www.youtube.com/watch?v=o0mNlkLz0ls)
+1. [Violinist.com - Laurie Niles | Violin Bow hold: Bend Thumb All the Way to Hair? (video) | 2021](https://www.youtube.com/watch?v=o0mNlkLz0ls)
    - Article is [here](https://www.violinist.com/blog/laurie/20213/28706/)
 

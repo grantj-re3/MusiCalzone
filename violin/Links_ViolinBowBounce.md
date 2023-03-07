@@ -7,7 +7,7 @@
      * apply the weight of the arm via the *lowest* joint of the index finger
    - Tilt the bow (so hairs face towards you)
    - Keep the bow moving; do not slow down (perhaps move bow faster)
-   - [Joy Lee | Beautiful, Sweet, Professional Violin Bowing | 2016](https://www.youtube.com/watch?v=kzIgWlye-pY)
+   - [Joy Lee | Beautiful, Sweet, Professional Violin Bowing (video) | 2016](https://www.youtube.com/watch?v=kzIgWlye-pY)
      * Bowing is too light
      * Bow direction change is not *connected*
      * [8m55s] *Climbing* drill to exercise right finger muscles and joints
@@ -15,7 +15,7 @@
 1. [Fiddlerman | Keep Your Bow From Bouncing (video) | 2016](https://www.youtube.com/watch?v=hEmFzaciCW4)
    - Pulling the bow rather than pushing it - with flexible fingers.
      * Like using a paint brush
-     * [Fiddlerman | Finger Flexibility for Smooth Bow Changes | 2011](https://www.youtube.com/watch?v=aZ_y3645vYM)
+     * [Fiddlerman | Finger Flexibility for Smooth Bow Changes (video) | 2011](https://www.youtube.com/watch?v=aZ_y3645vYM)
        + Demo of how to hold the bow;
          Your fingers need to be comfortably together rather than spread;
          The tip of your pinky should be on top of the [frog]
@@ -28,7 +28,7 @@
    - Turning the bow inwards slightly for more of a shock absorber effect.
    - Loosening the bow.
 
-1. [VIOLIN LOUNGE by Violinist Zlata | 9 Tips to Stop Violin Bow Shakes or Unwanted Bounces | 2020](https://www.youtube.com/watch?v=CF4JLmaNYNo)
+1. [VIOLIN LOUNGE by Violinist Zlata | 9 Tips to Stop Violin Bow Shakes or Unwanted Bounces (video) | 2020](https://www.youtube.com/watch?v=CF4JLmaNYNo)
    1. Practice performing; or practice after running!
    1. Thumb and pinky should be curved in your bow hand
    1. Finger action in your bow hand; as an alternative to *lifting your wrist* as the bow hand approaches
@@ -41,7 +41,7 @@
    1. Practice switching between bowing techniques
    1. Avoid coffee/caffeine, etc. before your performance
 
-1. [professorV - Todd Ehle | Get Control of your Bouncing Violin Bow | 2018](https://www.youtube.com/watch?v=TJ_sZTc2Hl0)
+1. [professorV - Todd Ehle | Get Control of your Bouncing Violin Bow (video) | 2018](https://www.youtube.com/watch?v=TJ_sZTc2Hl0)
    - Lean back to flatten [lift] the instrument
    - Raise right arm/elbow to tilt the bow; the stick tilts towards the scroll
 
