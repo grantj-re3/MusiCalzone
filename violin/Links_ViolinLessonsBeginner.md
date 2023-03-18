@@ -3,7 +3,7 @@
 1. [VIOLIN LOUNGE by Violinist Zlata | How Hard is it to Start Playing the Violin, Viola or Cello as an Adult (video) | 2014](https://www.youtube.com/watch?v=iiT9v9PHIrI)
 1. [VIOLIN LOUNGE by Violinist Zlata | Is it too late to start playing violin? (video) | 2013](https://www.youtube.com/watch?v=x0F_r28KSc0)
 
-1. [Violinspiration | Is It Ever Too Late To Learn The Violin? My Honest Answer | 2020](https://violinspiration.com/too-old-to-learn-violin/)
+1. [Violinspiration - Julia Termeer | Is It Ever Too Late To Learn The Violin? My Honest Answer | 2020](https://violinspiration.com/too-old-to-learn-violin/)
 
 
 ## VIOLIN LOUNGE by Violinist Zlata
@@ -14,7 +14,7 @@
 
 ## Holding the bow
 
-1. [Violinspiration | How to Hold the Violin Bow with the Bunny Method (video) | 2019](https://www.youtube.com/watch?v=xsVV5SqV6uI)
+1. [Violinspiration - Julia Termeer | How to Hold the Violin Bow with the Bunny Method (video) | 2019](https://www.youtube.com/watch?v=xsVV5SqV6uI)
    - Article is [here](https://violinspiration.com/how-to-hold-a-violin-bow/)
    - Nice **simple description**; easy to remember
 
@@ -51,13 +51,13 @@
      * [6m22s] If pinky falls off the bow, consider purchasing a "pinky grip" (or "pinky hold") bow training aid
    - [6m50s] Exercise 3: With the bow held vertically, move the bow up and down by flexing the fingers
      * Quite challenging
-     * Use all 5 fingers but especially and the back two
+     * Use all 5 fingers but especially the thumb and the back two
      * The motion is as if you are picking up an object
      * The forearm must not move
    - [8m30s] Exercise 4: With the bow held about 30° from the horizontal, use the same finger movement as for exercise 3
      to lower the bow (about 1 inch) onto the violin strings then lift it off again.
      * Do this near the frog.
-     * Consider using the pinky grip to help with this
+     * Consider using the pinky grip training aid to help with this
    - [9m51s] Exercise 5: Hold the bow horizontally and slowly remove fingers from the bow hold.
      * Remove index finger first
      * Then middle finger
