@@ -1,6 +1,6 @@
-# Violin Bowing Technique - Collé
+# Violin bowing technique: Collé
 
-1. [professorV - - Todd Ehle | Violin Lesson #44; Colle' Bowing (video) | 2007](https://www.youtube.com/watch?v=ZCwYTJNCJyA)
+1. [professorV - Todd Ehle | Violin Lesson #44; Colle' Bowing (video) | 2007](https://www.youtube.com/watch?v=ZCwYTJNCJyA)
 
 1. Red Desert Violin - Lora 
    - [Colle Exercises for Violin with a Pencil (video) | 2010](https://www.youtube.com/watch?v=Wj_dx-ZgQWU)
