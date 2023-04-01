@@ -53,7 +53,7 @@
 
 ## References to chord charts
 
-- [Hip Hop Makers | 16 FREE Piano Chords Chart Downloads ( PDF & Interactive ) | 2023](https://hiphopmakers.com/best-free-piano-chord-charts)
+- [Hip Hop Makers - Mark V. | 16 FREE Piano Chords Chart Downloads ( PDF & Interactive ) | 2023](https://hiphopmakers.com/best-free-piano-chord-charts)
   * Discusses chord charts from 16 web sites
   * Many of the chord charts above are referenced in this article
 
