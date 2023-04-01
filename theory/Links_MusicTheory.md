@@ -2,8 +2,13 @@
 
 Some of the content below:
 
+- assumes you are familiar with the notes on a piano 
+  * you can remedy this now by viewing the first 3 diagrams in the section *The Musical Alphabet*
+    [here](https://www.pianote.com/blog/how-to-read-piano-notes/#musical-alphabet)
 - assumes you know the basics of reading music (whereas some teach it as the fundamentals of music theory)
-- assumes you are familiar with the notes on a piano
+  * there is no quick remedy, but you can find a brief guide
+    [here](https://www.pianote.com/blog/how-to-read-piano-notes/)
+    if you need it
 
 
 1. [musictheory.net | Theory Lessons](https://www.musictheory.net/lessons)
@@ -23,6 +28,13 @@ Some of the content below:
 
 1. [ICON Collective - Rory PQ | Basic Music Theory for Beginners - The Complete Guide | 2020](https://iconcollective.edu/basic-music-theory/)
    - Covers the basics
+
+1. [Simon Bennett | The Raven’s Spiral Guide to Music Theory, Version 0.8.1 | 2012](https://www.scribd.com/doc/5220863/Ravenspiral-Guide-to-Music-Theory)
+   - An informal guide to music theory as it relates to composition
+   - Basic and more advanced topics covered
+   - Free ebook (licensed under the Creative Commons Attribution-NonCommercial-NoDerivs License)
+   - [PDF version](https://drive.google.com/open?id=1jbtccevUgiUkVBn2vLGaJqZs1nOn7YxH)
+   - [KVR forum: The guide formerly known as Ravenspiral Guide](https://www.kvraudio.com/forum/viewtopic.php?t=162135)
 
 1. [Rick Beato | Music Theory Masterclass 1: Drilling the Basics (video) | 2021](https://www.youtube.com/watch?v=De97zQi5rzc)
    - Covers chord formulas (and scales/modes)
