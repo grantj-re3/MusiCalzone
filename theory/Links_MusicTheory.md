@@ -40,3 +40,6 @@ Some of the content below:
    - Covers chord formulas (and scales/modes)
    - Intended audience is those interested in popular music
 
+1. [grantj-re3 | Intervals, major scale and (natural) minor scale (PDF) | 2023](assets/musicIntervalTable.pdf)
+   - My attempt at combining most of the interval information into a single table
+
