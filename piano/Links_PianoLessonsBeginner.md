@@ -41,13 +41,20 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 
 ## Playlists
 
+1. [Creative Piano Academy - Josef Sykora | Piano Lessons For Beginners (playlist) | c.2016-2022](https://www.youtube.com/playlist?list=PLhmvEMFe19DsCFuu9lW4gDDIad3gAeZR7)
+1. [Creative Piano Academy - Josef Sykora | Piano Patterns - A Collection of Beautiful Melodic Piano Patterns to Try (playlist) | c.2018-2022](https://www.youtube.com/playlist?list=PLhmvEMFe19Ds0G626gOdWnV3_4OLNv4aW)
+
 1. [Pianote - Lisa Witt, et al. | Play Piano With Lisa (playlist) | c.2019-2022](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKVcDd611OMn7sPH-tjOhl6D)
+1. [Pianote - Lisa Witt, et al. | Play Beautiful Piano Music (playlist) | c.2017-2023](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKW6YDSgcNOGt3pjtkwHBAAb)
+   - Lisa's videos often have introductory text which links to an explanatory web page, sheet music or chord progressions
 
 1. [Become a Piano Superhuman - Zach Evans | Piano Lessons for Beginners (playlist) | c.2018-2022](https://www.youtube.com/playlist?list=PLXufPPxby9p4t8orGchxrlyKOUYwml36_)
-   - Many of his videos recommend that we subscribe to get free PDF/info referenced in the video.
+   - Many of Zach's videos recommend that we subscribe to get free PDF/info referenced in the video.
 
 
-## Piano Hand Independence
+## Hand independence
+
+1. [Pianote - Lisa Witt | Piano Hand Independence For Beginners | 2019](https://www.youtube.com/watch?v=ngc0VUe-LV0)
 
 1. [Pianote - Cassi Falk | Hand Independence Bootcamp - Piano Lesson (video) | 2019](https://www.youtube.com/watch?v=9XIVncmKdng)
    - Beginner to advanced
@@ -61,12 +68,114 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 1. [Become a Piano Superhuman - Zach Evans | Piano Hand Independence Exercises (for Beginners) (video) | 2021](https://www.youtube.com/watch?v=G78DQpEDDWE)
 
 
-## Accompaniment Patterns
+## Excercises
+
+1. [Creative Piano Academy - Josef Sykora | The Top 5 Piano Exercises For Beginners | 2017](https://www.youtube.com/watch?v=tQh3-WBzaKY)
+   - The 4th exercise is the 1-5-6-4 chord progression. Although his right hand moves to different chord positions, his left hand stays
+     in the same position whilst playing the 1-5-6-4 bass notes.
+
+1. [Pianote - Lisa Witt | Beautiful (And Easy) Left-Hand Arpeggios | 2020](https://www.youtube.com/watch?v=JZDPI2S4KDw)
+   - One left hand arpeggio pattern
+   - Use the left hand *wrist pivot* to extend the arpeggio more than one octave
+
+1. [Pianote - Sangah Noona | Beautiful and Simple Piano Arpeggios (Beginner Tutorial) | 2022](https://www.youtube.com/watch?v=oFmQJnvtZd4)
+   - One arpeggio pattern for both hands
+   - Used in the chord progression: C Dm/C Em/C F/C C
+
+1. [Pianote - Lisa Witt | 10 Minute Arpeggio Practice (Beginner Piano Lesson) | 2023](https://www.youtube.com/watch?v=tI-NSic82ic)
+   - More information including backing track is [here](https://www.pianote.com/blog/10-minute-arpeggio-practice-in-f-sharp-minor/)
+     * Section A: F#m – D – A – C#
+     * Section B: D – Dm – A – C#
+
+1. [Pianote - Sam Vesely | Learn Arpeggio MAGIC! (Beginner Piano Lesson) | 2021](https://www.youtube.com/watch?v=_Jt2gJl-d0c)
+   - Two hand arpeggio patterns to improve your dexterity
+   - 1st: Pitter patter pattern with hand crossover
+   - 2nd: Mind bender
+   - 3rd: Dreamscape with hand crossover
+   - How to practice:
+     * slowly
+     * with metronome
+     * patiently
+
+1. [Pianote - Lisa Witt | Beautiful Arpeggio Patterns for Beginners (Piano Lesson) (video) | 2020](https://www.youtube.com/watch?v=hMZXQ87OeuU)
+   - This sounds very nice.
+   - Zach Evans has an almost identical version with the same title (link below). He adds some extra points.
 
 1. [Become a Piano Superhuman - Zach Evans | Beautiful Arpeggio Patterns for Beginners (Easy!!) (video) | 2021](https://www.youtube.com/watch?v=hkYYAsURYGU)
+   - Almost identical to the Pianote video with the same title but this one:
+     * shows the chord diagrams
+     * adds alternative chord variations
+     * adds a link about how to how to play smoothly (the "Steam Iron Method"; link below)
+
+
+## Accompaniment patterns
+
+1. [Creative Piano Academy - Josef Sykora | 5 Right Hand Patterns That Turn Beginners Into Pros | 2022](https://www.youtube.com/watch?v=w3UZHMlWF7U)
+   - The introductory text has a link to the sheet music for each of the 5 patterns
+   - 1st: The Broken Chord
+     * Pattern: Bottom-middle-top-middle
+     * Used in Someone Like You by Adele
+     * Right hand chord progression: C G Am F
+       + C chord:  C E G E | C E G E
+       + G chord:  B D G D | B D G D (first inversion)
+       + Am chord: A C E C | A C E C
+       + F chord:  A C F C | A C F C (first inversion)
+   - 2nd: The Classical
+     * Pattern: Bottom-top-middle-top
+     * Right hand chord progression: C G/C F/C G/C C
+       + C chord:  C G E G | C G E G
+       + G chord:  B G D G | B G D G (first inversion)
+       + F chord:  A F C F | A F C F (first inversion)
+       + G chord:  B G D G | B G D G (first inversion)
+   - 3rd: The John Lennon
+     * Used in Imagine by John Lennon and The Last Resort by the Eagles
+     * Pattern: Middle and top together, followed by bottom
+     * *Spend the most time on this pattern*
+     * Right hand chord progression: F-2nd-inversion C G-1st-inversion Am
+   - 4th: The Half-Half
+     * Pattern: Middle-bottom - middle-bottom - middle-bottom - middle-bottom (do not play the top note at all)
+     * Often played fairly fast with the sustain pedal
+     * Right hand chord progression: C Em G F
+   - 5th: The All-Rounder
+     * Pattern:
+       + Beat 1: All 3 notes
+       + Beat 2: Rest
+       + Beat 3: Middle and top together
+       + Beat 4: Bottom
+     * Right hand chord progression: F-2nd-inversion C G-1st-inversion Am
+
+1. [Creative Piano Academy - Josef Sykora | 5 Piano Accompaniment Patterns YOU SHOULD KNOW - Piano Lesson | 2022](https://www.youtube.com/watch?v=rn1ZejMbDR0)
+   - Left hand patterns
+   - The later patterns may be unsuitable for a complete beginner
+
+1. [Pianote - Lisa Witt | Left Hand Arpeggio Patterns (Piano Lesson) | 2019](https://www.youtube.com/watch?v=q97ZyiBh_pw)
+   - Four left hand arpeggio patterns for accompaniment
+   - 1st: Broken arpeggio
+   - 2nd: Rockin' fifths
+   - 3rd: Spa arpeggio
+   - 4th: Make the third the highest note (1 5 ^3 5 ^3 5)
+
+1. [Pianote - Sangah Noona | Walking Bass line Piano Tutorial (Lesson PDF Included!) | 2022](https://www.youtube.com/watch?v=Z5_ZQvr1d7w)
+
+1. [Pianote - Lisa Witt | 3 Essential Arpeggios (Beginner Piano Lesson) | 2022](https://www.youtube.com/watch?v=rmlI_7LgeHM)
+   - 1st: 1-3-5-^1-5-3
+   - 2nd: Used in Clocks by Coldplay: top-middle-bottom; top-middle-bottom; top-middle
+   - 3rd: 1-5-^1 (or 1-5-^1-5-^1-5-^1-5)
+   - Extra pattern: Similar to the longer pattern 3 above, but with inverted chords
+
+
+## Sustain pedal
+
+1. [Creative Piano Academy - Josef Sykora | Sustain Pedal - SIMPLE exercise gets you using the piano sustain pedal... NOW | 2017](https://www.youtube.com/watch?v=N3yS7pG1MGQ)
+
+1. [Creative Piano Academy - Josef Sykora | Easily Fix This Sustain Pedal Mistake EVERY Beginner Makes | Lockdown #5 | 2020](https://www.youtube.com/watch?v=EYx9vJaW9yc)
+
+1. [Pianote - Lisa Witt | Sound Instantly Better On The Piano (Sustain Pedal) | 2020](https://www.youtube.com/watch?v=J2JjkRpi35Y)
 
 
 ## Speed techniques
+
+1. [Pianote - Lisa Witt | Piano Speed Drills: How to Play Faster with Accuracy | 2019](https://www.youtube.com/watch?v=ZPdvWlRbQl0)
 
 1. [Become a Piano Superhuman - Zach Evans | 4 Steps to become FAST & STEADY on PIANO [The Steam Iron Method] (video) | 2021](https://www.youtube.com/watch?v=6em7g1NwOgE)
 
