@@ -47,7 +47,7 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 
 1. [Pianist Magazine - Tim Stein | Basics of Playing the Piano: Hand Shape and Hand Position (2) (video) | 2013](https://www.youtube.com/watch?v=p_6y7MPW_Ek)
 
-1. [Pianote - Lisa Witt | Proper Posture At The Piano (video) | 2018](https://www.youtube.com/watch?v=E8Do4oxT)
+1. [Pianote - Lisa Witt | Proper Posture At The Piano (video) | 2018](https://www.youtube.com/watch?v=E8Do4oxTJ1k)
 
 1. [Pianote - Lisa Witt | Proper Hand Posture At The Piano (video) | 2018](https://www.youtube.com/watch?v=rZznie6UU_o)
 
@@ -62,6 +62,18 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 1. [Pianote - Lisa Witt, et al. | Play Piano With Lisa (playlist) | c.2019-2022](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKVcDd611OMn7sPH-tjOhl6D)
 1. [Pianote - Lisa Witt, et al. | Play Beautiful Piano Music (playlist) | c.2017-2023](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKW6YDSgcNOGt3pjtkwHBAAb)
    - Lisa's videos often have introductory text which links to an explanatory web page, sheet music or chord progressions
+
+1. [Pianist Magazine - Tim Stein | Basics of Playing the Piano: Tim Stein Series | 2013-2014](https://www.youtube.com/playlist?list=PLR5ap-u8E6tqlTZ27aszg2aiLRsw_gskc)
+   - 18 short (4-8 minute) videos covering the basics of playing
+   - Although Tim's target audience is probably students who play classical music and can read music, I feel almost
+     all of the tips in this playlist are applicable to students who intend to only play popular music and chords
+   - Topics include:
+     * posture
+     * hand shape and position
+     * warm up exercises
+     * strengthening the left hand
+     * slurs
+     * the thumb
 
 1. [Become a Piano Superhuman - Zach Evans | Piano Lessons for Beginners (playlist) | c.2018-2022](https://www.youtube.com/playlist?list=PLXufPPxby9p4t8orGchxrlyKOUYwml36_)
    - Many of Zach's videos recommend that we subscribe to get free PDF/info referenced in the video.
