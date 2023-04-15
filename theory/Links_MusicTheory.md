@@ -11,7 +11,14 @@ Some of the content below:
     if you need it
 
 
-1. [musictheory.net | Theory Lessons](https://www.musictheory.net/lessons)
+## Formal or comprehensive coverage
+
+1. [University of Puget Sound - Robert Hutchinson | Music Theory for the 21st-Century Classroom | 2021](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+   - Basic and more advanced topics covered
+   - Thorough and structured information
+   - Convenient navigation
+
+1. [musictheory.net - Ricci Adams | Theory Lessons | c.2000-2022](https://www.musictheory.net/lessons)
    - Basic and more advanced topics covered
    - Links to interactive content
    - Navigate the interactive content pages by:
@@ -19,15 +26,23 @@ Some of the content below:
      * For each line (or paragraph or section) a new image appears above the text
      * Sometimes there is a speaker/sound icon which can be clicked to hear a corresponding recording
 
-1. [teoria.com - José Rodríguez Alvira | teoría : Music Theory Web](https://www.teoria.com/)
+1. [teoria.com - José Rodríguez Alvira | teoría : Music Theory Web | c.1998-2023](https://www.teoria.com/)
    - Basic and more advanced topics covered
    - Some content is interactive; but I did not grant access to devices nor install a web browser add-on
    - Peer reviewed music theory content
    - Teoría is a Spanish word meaning theory
    - [How to use teoria.com](https://www.teoria.com/en/help/web-help.php)
 
+1. [Mark Gotham, Kyle Gullings et al.| Open Music Theory, version 2 | 2021](https://viva.pressbooks.pub/openmusictheory/)
+   - Basic and more advanced topics covered
+   - Scroll through the table of contents to navigate to the next page
+   - Online Resources at the end of each section
+
+
+## Informal or narrow coverage
+
 1. [ICON Collective - Rory PQ | Basic Music Theory for Beginners - The Complete Guide | 2020](https://iconcollective.edu/basic-music-theory/)
-   - Covers the basics
+   - Covers the basics on a single web page
 
 1. [Simon Bennett | The Raven’s Spiral Guide to Music Theory, Version 0.8.1 | 2012](https://www.scribd.com/doc/5220863/Ravenspiral-Guide-to-Music-Theory)
    - An informal guide to music theory as it relates to composition
