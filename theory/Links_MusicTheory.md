@@ -15,28 +15,42 @@ Some of the content below:
 
 1. [University of Puget Sound - Robert Hutchinson | Music Theory for the 21st-Century Classroom | 2021](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
    - Basic and more advanced topics covered
-   - Thorough and structured information
+   - Structured teaching format
    - Convenient navigation
+   - Licence: GNU Free Documentation License, Version 1.2 or any later version
 
 1. [musictheory.net - Ricci Adams | Theory Lessons | c.2000-2022](https://www.musictheory.net/lessons)
    - Basic and more advanced topics covered
+   - Structured teaching format
    - Links to interactive content
    - Navigate the interactive content pages by:
      * Advancing from one line (or paragraph or section) to the next using the right-arrow key, or clicking the right-arrow or clicking the next line
      * For each line (or paragraph or section) a new image appears above the text
      * Sometimes there is a speaker/sound icon which can be clicked to hear a corresponding recording
+   - Lessons licence: CC BY
+
+1. [Andre Mount | Fundamentals, Function, and Form - Theory and Analysis of Tonal Western Art Music | 2020](https://milnepublishing.geneseo.edu/fundamentals-function-form/)
+   - Basic and more advanced topics covered
+   - Structured teaching format
+   - Scroll through the table of contents to navigate to the next page
+   - PDF version available [here](https://milneopentextbooks.org/fundamentals-function-and-form/)
+   - Licence: CC BY-NC
 
 1. [teoria.com - José Rodríguez Alvira | teoría : Music Theory Web | c.1998-2023](https://www.teoria.com/)
    - Basic and more advanced topics covered
+   - Structured teaching/tutorial format
    - Some content is interactive; but I did not grant access to devices nor install a web browser add-on
    - Peer reviewed music theory content
    - Teoría is a Spanish word meaning theory
    - [How to use teoria.com](https://www.teoria.com/en/help/web-help.php)
+   - Licence: CC BY-NC-ND 4.0
 
 1. [Mark Gotham, Kyle Gullings et al.| Open Music Theory, version 2 | 2021](https://viva.pressbooks.pub/openmusictheory/)
    - Basic and more advanced topics covered
+   - Structured teaching format
    - Scroll through the table of contents to navigate to the next page
    - Online Resources at the end of each section
+   - Licence: CC BY-SA
 
 
 ## Informal or narrow coverage
@@ -47,7 +61,8 @@ Some of the content below:
 1. [Simon Bennett | The Raven’s Spiral Guide to Music Theory, Version 0.8.1 | 2012](https://www.scribd.com/doc/5220863/Ravenspiral-Guide-to-Music-Theory)
    - An informal guide to music theory as it relates to composition
    - Basic and more advanced topics covered
-   - Free ebook (licensed under the Creative Commons Attribution-NonCommercial-NoDerivs License)
+   - Free ebook
+   - Licence: CC BY-NC-ND
    - [PDF version](https://drive.google.com/open?id=1jbtccevUgiUkVBn2vLGaJqZs1nOn7YxH)
    - [KVR forum: The guide formerly known as Ravenspiral Guide](https://www.kvraudio.com/forum/viewtopic.php?t=162135)
 
@@ -57,4 +72,5 @@ Some of the content below:
 
 1. [grantj-re3 | Intervals, major scale and (natural) minor scale (PDF) | 2023](assets/musicIntervalTable.pdf)
    - My attempt at combining most of the interval information into a single table
+   - Licence: CC BY-SA
 
