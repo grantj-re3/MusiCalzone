@@ -35,7 +35,7 @@
 
 1. [LeCheileMusic - Leah | Easily Understand Rhythm Notation to Transform Your Playing (video) | 2020](https://www.youtube.com/watch?v=WXCLrYIwc70)
 
-1. [Learn Piano with Jazer Lee | How to Improve Your Piano Sight Reading FAST- 3 Proven Tips | 2018](https://www.youtube.com/watch?v=XwPRj2kOCU4)
+1. [Learn Piano with Jazer Lee | How to Improve Your Piano Sight Reading FAST- 3 Proven Tips (video) | 2018](https://www.youtube.com/watch?v=XwPRj2kOCU4)
 
 My tip: When sight reading, avoid the two-step translation process for note pitch. That is:
 
