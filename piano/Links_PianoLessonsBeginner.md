@@ -63,6 +63,10 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 1. [Pianote - Lisa Witt, et al. | Play Beautiful Piano Music (playlist) | c.2017-2023](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKW6YDSgcNOGt3pjtkwHBAAb)
    - Lisa's videos often have introductory text which links to an explanatory web page, sheet music or chord progressions
 
+1. [Learn Piano with Jazer Lee | Key Practice Strategies (playlist) | c.2017-2022](https://www.youtube.com/playlist?list=PLMawC1bdeZRE2meimmzBAun-4zQyXBzNA)
+1. [Learn Piano with Jazer Lee | Piano Exercises To Try Now (playlist) | c.2021-2022](https://www.youtube.com/playlist?list=PLMawC1bdeZREj5r6ARjWXlrheSwvFtc4W)
+1. [Learn Piano with Jazer Lee | Tutorials and Tips! (playlist) | c.2017-2023](https://www.youtube.com/playlist?list=PLMawC1bdeZRHB4EYjsMDmgCDhBpCIvD3o)
+
 1. [Pianist Magazine - Tim Stein | Basics of Playing the Piano: Tim Stein Series | 2013-2014](https://www.youtube.com/playlist?list=PLR5ap-u8E6tqlTZ27aszg2aiLRsw_gskc)
    - 18 short (4-8 minute) videos covering the basics of playing
    - Although Tim's target audience is probably students who play classical music and can read music, I feel almost
@@ -99,6 +103,11 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
      * balance
      * movement
      * rhythm
+
+1. [Learn Piano with Jazer Lee | Play with 2 Hands on Piano (Practice these 10 Easy Exercises) (video) | 2021](https://www.youtube.com/watch?v=VXD0p_g_UTg)
+   - Levels 9 and 10 Polyrhythm (3 against 2) are presented in more detail [here](https://www.youtube.com/watch?v=OXZsZIEWlbA)
+
+1. [Learn Piano with Jazer Lee | Play with 2 Hands on Piano (Practice these 10 New Exercises) Part 2 (video) | 2021](https://www.youtube.com/watch?v=ZgKCUEYR74M)
 
 1. [Become a Piano Superhuman - Zach Evans | Piano Hand Independence Exercises (for Beginners) (video) | 2021](https://www.youtube.com/watch?v=G78DQpEDDWE)
 
@@ -206,6 +215,8 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 1. [Creative Piano Academy - Josef Sykora | Easily Fix This Sustain Pedal Mistake EVERY Beginner Makes | Lockdown #5 (video) | 2020](https://www.youtube.com/watch?v=EYx9vJaW9yc)
 
 1. [Pianote - Lisa Witt | Sound Instantly Better On The Piano (Sustain Pedal) (video) | 2020](https://www.youtube.com/watch?v=J2JjkRpi35Y)
+
+1. [Learn Piano with Jazer Lee | How To Use The Piano Pedal? Beginners Tutorial (video) | 2018](https://www.youtube.com/watch?v=lzbgr6H3BE0)
 
 
 ## Speed techniques
