@@ -27,12 +27,23 @@ Some of the content below:
      * Advancing from one line (or paragraph or section) to the next using the right-arrow key, or clicking the right-arrow or clicking the next line
      * For each line (or paragraph or section) a new image appears above the text
      * Sometimes there is a speaker/sound icon which can be clicked to hear a corresponding recording
+   - A variety of **exercises** are available [here](https://www.musictheory.net/exercises), including:
+     * Note identification (i.e. guess the note)
+     * Key signature identification (i.e. guess the key signature)
+     * Keyboard reverse identification (i.e. identify the note by pressing the piano key)
+     * Keyboard interval identification
+   - A variety of **tools** are available [here](https://www.musictheory.net/tools), including:
+     * Pop-up piano (keyboard)
+     * Chord calculator
+     * Tempo tapper
    - Lessons licence: CC BY
 
 1. [Andre Mount | Fundamentals, Function, and Form - Theory and Analysis of Tonal Western Art Music | 2020](https://milnepublishing.geneseo.edu/fundamentals-function-form/)
    - Basic and more advanced topics covered
    - Structured teaching format
    - Scroll through the table of contents to navigate to the next page
+   - Contains a diagram of *The complete circle of fifths* at the end of
+     [this section](https://milnepublishing.geneseo.edu/fundamentals-function-form/chapter/10-the-circle-of-fifths-2/)
    - PDF version available [here](https://milneopentextbooks.org/fundamentals-function-and-form/)
    - Licence: CC BY-NC
 
@@ -50,6 +61,7 @@ Some of the content below:
    - Structured teaching format
    - Scroll through the table of contents to navigate to the next page
    - Online Resources at the end of each section
+   - Contains a *glossary* [here](https://viva.pressbooks.pub/openmusictheory/back-matter/glossary/)
    - Licence: CC BY-SA
 
 
