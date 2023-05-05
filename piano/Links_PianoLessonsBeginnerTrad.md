@@ -1,4 +1,4 @@
-# Beginner piano lessons: with sight-reading
+# Beginner piano lessons: Traditional method
 
 These links show the more traditional method of learning the piano,
 that is by learning to read music at the same time.
