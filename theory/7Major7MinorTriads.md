@@ -2,7 +2,8 @@
 
 1. Assumes you know the 7 diatonic triads for the C major scale
 
-Roman numeral format                      | I           | ii          | iii         | IV          | V           | vi          | vii°
+Roman numeral triad format                | I           | ii          | iii         | IV          | V           | vi          | vii°
+------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|------
 Triad type                                | Major       | minor       | minor       | Major       | Major       | minor       | dim
 Triad name                                | C           | Dm          | Em          | F           | G           | Am          | B°
 Notes making the above chord              | C-E-G       | D-F-A       | E-G-B       | F-A-C       | G-B-D       | A-C-E       | B-D-F
@@ -34,7 +35,8 @@ In other words:
 
 3. Hence the 7 major & 7 minor triads can be found
 
-Roman numeral format                      | I           | ii          | iii         | IV          | V           | vi          | vii°
+Roman numeral triad format                | I           | ii          | iii         | IV          | V           | vi          | vii°
+------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|------
 Triad type                                | Major       | minor       | minor       | Major       | Major       | minor       | dim
 Triad name                                | C           | Dm          | Em          | F           | G           | Am          | B°
 Notes making the above chord              | C-E-G       | D-F-A       | E-G-B       | F-A-C       | G-B-D       | A-C-E       | B-D-F
