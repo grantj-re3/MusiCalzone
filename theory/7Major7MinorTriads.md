@@ -42,11 +42,11 @@ Roman numeral triad format                | I           | ii          | iii     
 Triad type                                | Major       | minor       | minor       | Major       | Major       | minor       | dim
 Triad name                                | C           | Dm          | Em          | F           | G           | Am          | B°
 Notes making the above chord              | C-E-G       | D-F-A       | E-G-B       | F-A-C       | G-B-D       | A-C-E       | B-D-F
-                                          |             |             |             |             |             |             |
+***Major***                               |             |             |             |             |             |             |
 Raise 3rd to convert minor/dim to major   |             | F→F#        | G→G#        |             |             | C→C#        | D→D#
 Raise 5th to convert dim to major         |             |             |             |             |             |             | F→F#
 Hence major triads: C,D,E,F,G,A,B         | C-E-G       | D-F#-A      | E-G#-B      | F-A-C       | G-B-D       | A-C#-E      | B-D#-F#
-                                          |             |             |             |             |             |             |
+***Minor***                               |             |             |             |             |             |             |
 Lower 3rd to convert major to minor       | E→Eb        |             |             | A→Ab        | B→Bb        |             |
 Raise 5th to convert dim to minor         |             |             |             |             |             |             | F→F#
 Hence minor triads: Cm,Dm,Em,Fm,Gm,Am,Bm  | C-Eb-G      | D-F-A       | E-G-B       | F-Ab-C      | G-Bb-D      | A-C-E       | B-D-F#
