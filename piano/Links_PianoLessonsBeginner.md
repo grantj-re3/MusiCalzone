@@ -112,6 +112,31 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 1. [Become a Piano Superhuman - Zach Evans | Piano Hand Independence Exercises (for Beginners) (video) | 2021](https://www.youtube.com/watch?v=G78DQpEDDWE)
 
 
+## Practice
+
+1. [Become a Piano Superhuman - Zach Evans | The PERFECT Piano Practice Morning Routine (For Beginners) | 2021](https://www.youtube.com/watch?v=wwm2RI8fBeQ)
+   1. Five finger drill [2 minutes]
+      * Focus on:
+        + the *correct wrist motion*
+        + keeping the little finger curved
+        + smooth and even flow
+      * Right hand
+        + Start on C4 (i.e. middle C): 1 2 3 4, 5 4 3 2 (repeat)
+        + Move to next white key, then repeat the above pattern
+        + Continue until you have played the pattern starting at C5 (i.e. one octave above middle C)
+      * Left hand
+        + As for right hand, but start on C3 (i.e. one octave below middle C)
+   1. Chord progressions: Learn chords for your favourite songs [4 minutes]
+      * Use *inversions* so you don't need to move your hand very far from the root chord
+      * Practice the chord *changes*
+      * Play chord with the right hand; root of the chord with the left hand
+   1. Improvisation [4 minutes]
+      * LH: Play notes C G C G ...
+      * RH: Play any white notes
+   1. "5-7" Motivation Goal Sheet
+      * Document each practice
+
+
 ## Excercises
 
 1. [Creative Piano Academy - Josef Sykora | The Top 5 Piano Exercises For Beginners (video) | 2017](https://www.youtube.com/watch?v=tQh3-WBzaKY)
@@ -210,9 +235,22 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 
 ## Sustain pedal
 
+1. [Become a Piano Superhuman - Zach Evans | BEST Piano Pedal Exercise for Beginners (by FAR…) (video) | 2019](https://www.youtube.com/watch?v=8RSpdD5zojk)
+   - "Both - Down - Up" method:
+     * Start with foot down on the pedal
+     * Both: Hand down, foot up
+     * Down: Foot down
+     * Up: Hand up
+
 1. [Creative Piano Academy - Josef Sykora | Sustain Pedal - SIMPLE exercise gets you using the piano sustain pedal... NOW (video) | 2017](https://www.youtube.com/watch?v=N3yS7pG1MGQ)
 
 1. [Creative Piano Academy - Josef Sykora | Easily Fix This Sustain Pedal Mistake EVERY Beginner Makes | Lockdown #5 (video) | 2020](https://www.youtube.com/watch?v=EYx9vJaW9yc)
+
+1. [Pianote - Cassi Falk | Sound INSTANTLY Better (How To Use The Pedal) (video) | 2019](https://www.youtube.com/watch?v=EkE7tlmuAlc)
+   - Exercises:
+     * Pedal for each note of the major scale
+     * Pedal for each chord of the major scale, i.e. I ii iii IV V vi vii° I
+     * Pedal along with left hand part of a piece (while not playing the right hand at all) e.g. the song Hallelujah
 
 1. [Pianote - Lisa Witt | Sound Instantly Better On The Piano (Sustain Pedal) (video) | 2020](https://www.youtube.com/watch?v=J2JjkRpi35Y)
 
