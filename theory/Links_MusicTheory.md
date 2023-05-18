@@ -56,7 +56,7 @@ Some of the content below:
    - [How to use teoria.com](https://www.teoria.com/en/help/web-help.php)
    - Licence: CC BY-NC-ND 4.0
 
-1. [Mark Gotham, Kyle Gullings et al.| Open Music Theory, version 2 | 2021](https://viva.pressbooks.pub/openmusictheory/)
+1. [Mark Gotham, Kyle Gullings et al. | Open Music Theory, version 2 | 2021](https://viva.pressbooks.pub/openmusictheory/)
    - Basic and more advanced topics covered
    - Structured teaching format
    - Scroll through the table of contents to navigate to the next page
@@ -84,5 +84,11 @@ Some of the content below:
 
 1. [grantj-re3 | Intervals, major scale and (natural) minor scale (PDF) | 2023](assets/musicIntervalTable.pdf)
    - My attempt at combining most of the interval information into a single table
+   - Licence: CC BY-SA
+
+1. [grantj-re3 | How to memorise 7 major & 7 minor chords |2023](7Major7MinorTriads.md)
+   - My suggestion for remembering the chords:
+     * major triads: C, D, E, F, G, A, B
+     * minor triads: Cm, Dm, Em, Fm, Gm, Am, Bm
    - Licence: CC BY-SA
 
