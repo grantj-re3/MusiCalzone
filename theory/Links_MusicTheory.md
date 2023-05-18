@@ -86,7 +86,7 @@ Some of the content below:
    - My attempt at combining most of the interval information into a single table
    - Licence: CC BY-SA
 
-1. [grantj-re3 | How to memorise 7 major & 7 minor chords |2023](7Major7MinorTriads.md)
+1. [grantj-re3 | How to memorise 7 major & 7 minor chords | 2023](7Major7MinorTriads.md)
    - My suggestion for remembering:
      * the major chords: C, D, E, F, G, A, B
      * the minor chords: Cm, Dm, Em, Fm, Gm, Am, Bm
