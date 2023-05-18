@@ -87,8 +87,8 @@ Some of the content below:
    - Licence: CC BY-SA
 
 1. [grantj-re3 | How to memorise 7 major & 7 minor chords |2023](7Major7MinorTriads.md)
-   - My suggestion for remembering the chords:
-     * major triads: C, D, E, F, G, A, B
-     * minor triads: Cm, Dm, Em, Fm, Gm, Am, Bm
+   - My suggestion for remembering:
+     * the major chords: C, D, E, F, G, A, B
+     * the minor chords: Cm, Dm, Em, Fm, Gm, Am, Bm
    - Licence: CC BY-SA
 

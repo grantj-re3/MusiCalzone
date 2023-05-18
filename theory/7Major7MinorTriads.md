@@ -79,5 +79,5 @@ Details about scales, intervals and triads can be found in various music theory 
 
 ---
 
-<small>© 2023 by grantj-re3 | Made available under the CC BY-SA licence | http://creativecommons.org/licenses/by-sa/4.0/</small>
+© 2023 by grantj-re3 | Made available under the CC BY-SA licence | http://creativecommons.org/licenses/by-sa/4.0/
 
