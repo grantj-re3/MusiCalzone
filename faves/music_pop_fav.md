@@ -4,10 +4,13 @@ Some of my favourite music from the last 6 decades or so... arranged by year.
 
 Title                       | Performers (Year)                   | Composers (Year)          | Links
 ----------------------------|-------------------------------------|---------------------------|------
-On the Street Where You Live (from the musical *My Fair Lady*) | Bill Shirley (1956)          | Frederick Loewe, Alan Jay Lerner | [Video1 LCT 2018](https://www.youtube.com/watch?v=6kX3PZ_ynss), [Video2 BS 1956](https://www.youtube.com/watch?v=0udu4KYv1zI)
+On the Street Where You Live (from the musical *My Fair Lady*)    | Bill Shirley (1956)       | Frederick Loewe, Alan Jay Lerner | [Video1 LCT 2018](https://www.youtube.com/watch?v=6kX3PZ_ynss), [Video2 BS 1956](https://www.youtube.com/watch?v=0udu4KYv1zI)
+Crazy                       | Patsy Cline (1961)                  | Willie Nelson             | [Video1](https://www.youtube.com/watch?v=MbnrdCS57d0), [Video2](https://www.youtube.com/watch?v=YWKeuYcDAoo)
 Downtown                    | Petula Clark (1964)                 | Tony Hatch                | [Audio](https://www.youtube.com/watch?v=z_m4Qb0iW-o), [Video](https://www.youtube.com/watch?v=Zx06XNfDvk0)
 Can't Take My Eyes Off You  | Frankie Valli (1967)                | Bob Crewe, Bob Gaudio     | [Audio](https://www.youtube.com/watch?v=J36z7AnhvOM), [Video](https://www.youtube.com/watch?v=RbnXASVV--M)
 Happy Together              | Turtles (1967)                      | Garry Bonner, Alan Gordon | [Audio](https://www.youtube.com/watch?v=pSw8an1u3rc), [Video](https://www.youtube.com/watch?v=mRCe5L1imxg)
+Ode to Billy Joe            | Bobbie Gentry (1967)                | Bobbie Gentry             | [Audio](https://www.youtube.com/watch?v=gGKoFVfdXPs), [Video](https://www.youtube.com/watch?v=nv33eaygVDQ)
+San Francisco (Be Sure to Wear Flowers in Your Hair) | Scott McKenzie (1967) | John Phillips (1966) | [Audio](https://www.youtube.com/watch?v=LAX5GgvS-8s), [Video](https://www.youtube.com/watch?v=X1tnpLs1lns)
 Windy              | [Association](artists/Association.md) (1967) | Ruthann Friedman          | [Audio](https://www.youtube.com/watch?v=Qa9mGMdwv0g), [Video](https://www.youtube.com/watch?v=RsY8l0Jg3lY)
 Dream a Little Dream of Me  | Mamas & the Papas (1968)            | Fabian Andre, Wilbur Schwandt, Gus Kahn (1931) | [Audio](https://www.youtube.com/watch?v=fJwjLYRPxJY), [Video CE](https://www.youtube.com/watch?v=ZZ0PZRYin2s)
 This Guy's in Love with You | Herb Alpert (1968)                  | Burt Bacharach, Hal David | [Audio](https://www.youtube.com/watch?v=pvQMyVoefNI), [Video](https://www.youtube.com/watch?v=o8ByJ1C0iR4)
@@ -44,6 +47,7 @@ I Can't Tell You Why    | Eagles (1980)       | Timothy B. Schmit, Glenn Frey, D
 The Winner Takes It All | ABBA (1980)         | Benny Andersson, Björn Ulvaeus | [Audio](https://www.youtube.com/watch?v=92cwKCU8Z5c), [Video](https://www.youtube.com/watch?v=iyIOl-s7JTU)
 Against All Odds        | Phil Collins (1984) | Phil Collins                   | [Audio](https://www.youtube.com/watch?v=CkGg1bzfSys), [Video](https://www.youtube.com/watch?v=m6_wV9DtZTU)
 Bring Him Home (from the musical *Les Misérables*) | Colm Wilkinson (1985)              | Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel, Herbert Kretzmer | [Video](https://www.youtube.com/watch?v=qsYnhVITf9E)
+Broken Wings            | Mr. Mister (1985)   | Richard Page, Steve George, John Lang   | [Audio](https://www.youtube.com/watch?v=LpmVp6s-UiY), [Video1](https://www.youtube.com/watch?v=nKhN1t_7PEY), , [Video2](https://www.youtube.com/watch?v=F4LAO2NMz8Y)
 Laughing Into 1939           | Al Stewart <sup>[h](https://alstewart.com/), [w](https://en.wikipedia.org/wiki/Al_Stewart), [y1](https://www.youtube.com/channel/UCMSnwh4D7Dp8LRo7MW8dHuQ), [y2](https://www.youtube.com/@TheAlStewartArchives)</sup> (1995) | Al Stewart | [Audio](https://www.youtube.com/watch?v=aidcJ1aLrRs)
 Autumn Leaves                | Eva Cassidy <sup>[h](https://evacassidy.org/), [w](https://en.wikipedia.org/wiki/Eva_Cassidy), [y](https://www.youtube.com/@evacassidyofficial), [f](https://www.evacassidyfanclub.nl/)</sup> (1996) | Joseph Kosma (1945) | [Video](https://www.youtube.com/watch?v=xXBNlApwh0c)
 Un-Break My Heart            | Toni Braxton (1996)                | Diane Warren                                                              | [Audio](https://www.youtube.com/watch?v=O596XpES1rI)
