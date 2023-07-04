@@ -38,7 +38,35 @@ that is by learning to read music at the same time.
 1. [Two Hand Piano Playing Tips and Exercises (playlist) | c.2016-2023](https://www.youtube.com/playlist?list=PLUyDmNalB0rg2L-ok6kZzqG1eoutuvCDE)
 
 1. [You Need to Be Practicing These if You are a Beginner | 2019](https://www.youtube.com/watch?v=6GtHArhUlro)
+   - Five Finger Exercises, [Etudes, Op.16, Aloys Schmitt](https://imslp.org/wiki/Etudes%2C_Op.16_(Schmitt%2C_Aloys)) - original link is broken
+   - [MakingMusicFun.net | Free Nursery Rhyme Piano Sheet Music (Beginner & Easy)](https://makingmusicfun.net/htm/nursery_rhyme_piano_index) 
+     * limit of 2 downloads per day unless you have an account
+     * some sheet music is free and some is not
+     * level 1 (easiest) to level 5 (hardest)
+     * other categories of downloads available for piano (and other instruments) such as
+       Popular, Beginner, Easy, Classical, Bach, Tchaikovsky, Duets, Scales, Christmas, etc.
+   - [MakingMusicFun.net | Free Piano Sheet Music (Beginner and Easy)] (https://makingmusicfun.net/htm/printit_piano_sheet_music_index)
+     * See above for MakingMusicFun.net features and limitations
+   - [Musescore - Simone Dagli Orti | Piano Major Scales Fingerings](https://musescore.com/rroossssoo/scores/4855057)
+     * cannot download unless you have an account
+   - Hanon - see Hanon link below
+   - Czerny, Op.299 - see Czerny link below
+
 1. [Easy Two Handed Piano Playing Tips and Exercises | 2016](https://www.youtube.com/watch?v=q8NQr5vTdzU)
+   1. If you are a beginner, learn hands-separate first then learn with hands together
+   2. ***Play slowly if you are finding a piece difficult***
+   3. Avoid playing pieces/passages which are too difficult for your level
+   4. Resources:
+      - scales
+      - scale exercise:
+        * play the scale of C major (starting at C3) as crotchets with the left hand (1 octave, up only)
+        * simultaneously, play the scale of C major (starting at C4) as quavers with the right hand (1 octave up and down; do not repeat the C5 note)
+        * both should finish on the same note, C4
+        * repeat the exercise where the left hand plays quavers at C3 and the right hand plays crotches starting at C4 (hands should finish on C3 and C5)
+        * repeat for 4 notes in one hand vs 1 note in the other
+        * repeat for different major scales
+      - Hanon - see Hanon link below
+      - Czerny, Op.139 or Op.261 - see Czerny link below
 
 1. [7 Techniques Piano Beginners Neglect to Practice ALL the Time | 2023](https://www.youtube.com/watch?v=tKBvcyYXt4o)
    1. Chord mastery:
@@ -89,4 +117,20 @@ that is by learning to read music at the same time.
    1. Sight read every time you practice: Sight reading is the most important skill you can learn while playing the piano;
       practice something which is just below your current playing level
    1. Listen to professional recordings of what you are practicing
+
+
+## Learn Piano with Jazer Lee
+
+1. [Key Practice Strategies (playlist) | c.2019-2022](https://www.youtube.com/playlist?list=PLMawC1bdeZRE2meimmzBAun-4zQyXBzNA)
+
+1. [The Fastest Method to Learn Piano Pieces (video) | 2021](https://www.youtube.com/watch?v=cxnAG8aXe5o)
+   - The Deep Sections Method
+     * Create small sections (e.g. 1, 2 or 4 bars)
+     * Practice the section 7 times "successfully"
+     * Rhythm does not matter (i.e. slowing down for difficult portions is ok)
+     * Do not use the pedal
+     * [Speed not important initially]
+     * [Some suggest practicing the last section of a piece first then work your way backwards to the beginning section]
+     * Proceed to the next section
+     * Try to regard this learning as fun; think of it as a game
 
