@@ -114,7 +114,7 @@ various piano chord charts [here](Links_PianoChordCharts.md) when you need them.
 
 ## Practice
 
-1. [Become a Piano Superhuman - Zach Evans | The PERFECT Piano Practice Morning Routine (For Beginners) | 2021](https://www.youtube.com/watch?v=wwm2RI8fBeQ)
+1. [Become a Piano Superhuman - Zach Evans | The PERFECT Piano Practice Morning Routine (For Beginners) (video) | 2021](https://www.youtube.com/watch?v=wwm2RI8fBeQ)
    1. Five finger drill [2 minutes]
       * Focus on:
         + the *correct wrist motion*
