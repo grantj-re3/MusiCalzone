@@ -10,7 +10,6 @@
 1. [Stack Exchange | Can anyone tell me how to play triplets in rhythm with eighth notes? | 2022](https://music.stackexchange.com/questions/123367/can-anyone-tell-me-how-to-play-triplets-in-rhythm-with-eighth-notes)
 
 1. [Stack Exchange | How to play 2 against 3 polyrhythm evenly? | 2016](https://music.stackexchange.com/questions/42739/how-to-play-2-against-3-polyrhythm-evenly/45828)
-
 ```
 The trick is simply to flatten it:
 
@@ -25,7 +24,8 @@ v       v   v   v       v
 *       *   *   *       *       *   *   *       *
 
 
-Another way to see it is that there are 6 beats (mathematically, LCM [Lowest Common Multiple] of 2 and 3). Beats 2 and 6 are not played:
+Another way to see it is that there are 6 beats (mathematically, LCM [Lowest Common Multiple]
+of 2 and 3). Beats 2 and 6 are not played:
 
 *       *   *   *       *       *   *   *       *
 1  (2)  3   4   5  (6)  1  (2)  3   4   5  (6)  1
