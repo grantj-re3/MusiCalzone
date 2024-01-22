@@ -34,3 +34,23 @@ Some examples:
 - Beatles Sgt. Pepper's Lonely Hearts Club Band
 - My Sharona The Knack
 
+
+## Paul Davids
+
+- https://www.youtube.com/@PaulDavids
+
+Some examples:
+
+- [How Paul Simon wrote the PERFECT chord progression (video) | 2020](https://www.youtube.com/watch?v=SjPAeTrF1zg)
+  * 50 Ways to Leave Your Lover, Paul Simon, 1975
+  * [I GOT AN E-MAIL FROM PAUL SIMON (saying I was wrong!) (video) | 2023](https://www.youtube.com/watch?v=Y2PVGuLPWcU)
+- [Last Christmas | Fingerstyle Guitar Lesson with Tabs (video) | 2016](https://www.youtube.com/watch?v=MN3PiQSbKnI)
+- [Fleetwood Mac's IMPOSSIBLE picking song (video) | 2022](https://www.youtube.com/watch?v=TeNyc9pXm1w)
+  * Never Going Back Again, Lindsey Buckingham, 1977
+- [Coldplay guitar tutorials (playlist) | 2015-2016](https://www.youtube.com/playlist?list=PLlOo04r1Bet7Iy2DvujaZZX63jSn0X6M2)
+
+Theory:
+
+- [Music Theory Series (playlist) | 2018](https://www.youtube.com/playlist?list=PLlOo04r1Bet5ymhM5vhINNaoG6yz3n9p3)
+- [Music Theory (playlist) | 2017-2023](https://www.youtube.com/playlist?list=PLlOo04r1Bet5LqchGO_tZ_u7MUCyIhBqJ)
+
