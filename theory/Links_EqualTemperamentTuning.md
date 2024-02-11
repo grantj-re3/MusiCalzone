@@ -27,6 +27,13 @@
    - [Beat (acoustics)](https://en.wikipedia.org/wiki/Beat_(acoustics))
 
 
+## History of equal temperament tuning
+
+1. [Nathan Nokes | Brief History of Western Tuning (Understanding Equal Temperament) (video) | 2015](https://www.youtube.com/watch?v=wUBkbrvCmGA)
+
+1. [Cedarville University: Alisa Daum | The Establishment of Equal Temperament | 2011](https://digitalcommons.cedarville.edu/cgi/viewcontent.cgi?article=1005&context=music_and_worship_student_presentations)
+
+
 ## Tuning and beat frequency
 
 1. [Khan Academy | Beat frequency | Physics (video) | 2016](https://www.youtube.com/watch?v=Ca91iOVGd9A)
@@ -35,10 +42,29 @@
 
 1. [University of Connecticut: Dr. George Gibson | 5.5 Interference in Time: Beats](https://www.phys.uconn.edu/~gibson/Notes/Section5_5/Sec5_5.htm)
 
+1. [Pennsylvania State University: College of Engineering: Dan Russell | Superposition of Waves | 1996-2014](https://www.acs.psu.edu/drussell/Demos/superposition/superposition.html)
+   - See "Two sine waves with different frequencies: Beats" at the bottom of the page for an animation
 
-## History of equal temperament tuning
 
-1. [Nathan Nokes | Brief History of Western Tuning (Understanding Equal Temperament) (video) | 2015](https://www.youtube.com/watch?v=wUBkbrvCmGA)
+## Scientific Pitch Notation (SPN)
 
-1. [Cedarville University: Alisa Daum | The Establishment of Equal Temperament | 2011](https://digitalcommons.cedarville.edu/cgi/viewcontent.cgi?article=1005&context=music_and_worship_student_presentations)
+Also known as:
+- American Standard Pitch Notation (ASPN)
+- International Pitch Notation (IPN)
+
+This is a notation standard which gives names to notes such as C4 (middle C) or A0 (the lowest note on the piano).
+Not to be confused with *Scientific Pitch* or *Standard Pitch* or *American Standard Pitch* or *ISO 16:1975* which are tuning-frequency standards.
+
+*There does not appear to be a International Organization for Standardization (ISO), US or other formal standard for this notation.*
+
+
+1. [Music & Theory: Bri Lundberg | An Easy Guide to Scientific Pitch Notation | 2022](https://www.musicandtheory.com/an-easy-guide-to-scientific-pitch-notation/)
+
+1. [Liutaio Mottola: R.M. Mottola | Table of Musical Notes and Their Frequencies and Wavelengths | 2020](https://www.liutaiomottola.com/formulae/freqtab.htm)
+
+1. [Wikipedia | Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+
+1. [Flutopedia: Clint Goss | Octave Notation](https://www.flutopedia.com/octave_notation.htm)
+   - IPN is a note-octave notation termed “Scientific Pitch Notation” in the original proposal by the Acoustical Society of America ([Young-RW 1939])
+   - [R. W. Young. “Terminology for Logarithmic Frequency Units”, Journal of the Acoustical Society of America, Volume 11, Number 1, July 1939, pages 134–139, doi:10.1121/1.1916017. ISSN: 0001-4966](http://dx.doi.org/10.1121/1.1916017)
 
