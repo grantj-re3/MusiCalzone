@@ -27,3 +27,26 @@
    - [What is a Standing Wave? (video)](https://www.youtube.com/watch?v=aTaT1orpHg8)
    - [Harmonic Frequencies and Standing Waves (video)](https://www.youtube.com/watch?v=Okjtc1UdM6U)
 
+
+## String vibration
+
+1. [StudySmarter | Vibrating String](https://www.studysmarter.co.uk/explanations/physics/waves-physics/vibrating-string/)
+
+1. [University NSW: School of Physics: Joe Wolfe | Music Acoustics: Strings, standing waves and harmonics](https://www.phys.unsw.edu.au/jw/strings.html)
+   - The pitch of a note is determined by how rapidly the string vibrates. This depends on four things:
+     1. Thicker, more massive strings vibrate more slowly.
+     1. The frequency increases with the tension in the string.
+     1. The length of the string that is free to vibrate is also important.
+     1. You can also change the pitch by changing the mode of vibration [harmonics]
+   - From the equations:
+     * v  = fλ
+     * f₁ = v/2L  (or λ₁ = 2L)
+     * v  = √(F/μ)  where μ  = M/L
+     * Note that variable *v* is the speed of the wave along the string (not the speed of sound).
+   - We can derive the equations:
+     * fₙ = (n/2L)√(F/μ) = (n/2L)√(FL/M) = (n/2)√(F/LM)
+     * Hence, f₁ = ½√(F/LM)
+     * Hence, F  = 4f₁²LM
+
+1. [Wikipedia | String vibration](https://en.wikipedia.org/wiki/String_vibration)
+
