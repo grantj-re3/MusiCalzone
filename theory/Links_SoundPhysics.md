@@ -1,5 +1,12 @@
 # The physics of sound and music
 
+1. [Pressbooks: David Abbott | Understanding Sound](https://pressbooks.pub/sound/)
+   - In my view this is an excellent book. It consists of 48 web pages / chapers and has very good coverage. Some of the web pages can be read in 5-10 minutes although others may take longer to understand if you are unfamiliar with the concepts. I feel you don't need to read every page... you may be able to skip to the page of interest.
+   - This book is free. It is open copyright (CC-BY).
+   - An introduction to the physics of sound originally developed for students at Buffalo State College
+   - This book is written for high school and college students who do not have much background in science or math. The book deliberately avoids incorporating basic physics topics (like force, energy and pressure) beyond what is absolutely needed for the book. The math is mostly at the 8th grade level- algebra, graph reading, ratio and proportion. There’s no calculus. There’s no trigonometry. The hardest math (logs and roots) is in the sections on decibels and musical intervals. (These sections can be skipped without disrupting the flow of the book).
+   - A musical background is not required to understand this book, but it helps. Musicians have valuable experiences- producing sound, listening carefully to sound and (perhaps) reading music. I’ve brought in musical topics in the main text to help those with a musical background understand the material better.
+
 1. [Science Sauce: Alex Nixon | Sound: Wavelength, Frequency and Amplitude (video) | 2018](https://www.youtube.com/watch?v=TsQL-sXZOLc)
 
 1. [Eastern Illinois University: Doug Davis | Excursions in Physics: PHY 3050: Summer 2005: General Course Calendar](https://ux1.eiu.edu/~cfadd/3050/Ch01Intro/Sched.html)
