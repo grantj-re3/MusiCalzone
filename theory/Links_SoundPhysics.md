@@ -38,6 +38,11 @@
 ## String vibration
 
 1. [StudySmarter | Vibrating String](https://www.studysmarter.co.uk/explanations/physics/waves-physics/vibrating-string/)
+   - A vibrating string in physics refers to a string's back-and-forth motion caused by an initial displacement from its equilibrium position, where it seeks to return but overshoots due to accumulated momentum.
+   - The causes of string vibration involve an energy transfer and wave motion initiated by displacing a string from its equilibrium position. The string vibrates until all the initial provided energy is dissipated, and its frequency depends on its tension, length, and mass.
+   - When a string vibrates, it creates a transverse wave with the string's displacement being perpendicular to the wave's motion. The speed of the wave depends on the tension and linear density of the string. This displacement and subsequent reflection of waves create standing wave patterns known as modes of vibrations.
+   - The mathematical interpretation of vibrating strings... is characterized by standing waves that represent the harmonic frequencies of the string, known as the modes of vibration or harmonics.
+   - Vibrating strings have numerous real-world applications, including producing sound in stringed instruments...
 
 1. [University NSW: School of Physics: Joe Wolfe | Music Acoustics: Strings, standing waves and harmonics](https://www.phys.unsw.edu.au/jw/strings.html)
    - The pitch of a note is determined by how rapidly the string vibrates. This depends on four things:
@@ -46,9 +51,9 @@
      1. The length of the string that is free to vibrate is also important.
      1. You can also change the pitch by changing the mode of vibration [harmonics]
    - From the equations:
-     * v  = fλ
-     * f₁ = v/2L  (or λ₁ = 2L)
-     * v  = √(F/μ)  where μ  = M/L
+     * f  = v/λ
+     * λ₁ = 2L (hence f₁ = v/2L)
+     * v  = √(F/μ)  where μ  = M/L and F is the tension force applied to the string
      * Note that variable *v* is the speed of the wave along the string (not the speed of sound).
    - We can derive the equations:
      * fₙ = (n/2L)√(F/μ) = (n/2L)√(FL/M) = (n/2)√(F/LM)
@@ -56,4 +61,12 @@
      * Hence, F  = 4f₁²LM
 
 1. [Wikipedia | String vibration](https://en.wikipedia.org/wiki/String_vibration)
+
+
+## Why does the same note-pitch sound different when played on a different musical instrument?
+
+1. [Audio University: Kyle Mathias | Why Do Instruments Sound Different? | 2022](https://audiouniversityonline.com/why-do-instruments-sound-different/)
+   - The Harmonic Character Of The Instrument (timbre).
+   - The Envelope Of The Instrument: That is, the level variation of a note or chord over time. It is divided into three parts: Attack, Sustain, and Decay.
+   - [Audio University | Why Do Instruments Sound Different? (w/ Visual Demonstrations!) (video) | 2022](https://www.youtube.com/watch?v=GLnrysQ1Erg)
 
