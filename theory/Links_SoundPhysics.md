@@ -63,6 +63,25 @@
 1. [Wikipedia | String vibration](https://en.wikipedia.org/wiki/String_vibration)
 
 
+## Air column vibrations
+
+1. [ScienceFlip | Waves and Thermodynamics](https://www.scienceflip.com.au/subjects/physics/wavesandthermodynamics/)
+   - [Transverse and Longitudinal Waves – Watch](https://www.scienceflip.com.au/subjects/physics/wavesandthermodynamics/watch2/)
+     * [Bozeman Science | Transverse and Longitudinal Waves (video) | 2015](https://www.youtube.com/watch?v=pqJzn8Y1HFw)
+   - [Standing Waves in Air Columns – Watch](https://www.scienceflip.com.au/subjects/physics/wavesandthermodynamics/watch21/)
+     * [James Lincoln | Tube Resonance - Standing Sound Waves (video) | 2014](https://www.youtube.com/watch?v=bHdHaYNX4Tk)
+
+1. [Pressbooks: David Abbott | Understanding Sound: Vibrating air columns](https://pressbooks.pub/sound/chapter/vibrating-air-columns/)
+
+1. [University of Sydney: School of Physics: Ian Cooper | Sound Waves in Air](https://d-arora.github.io/VisualPhysics/mod31/m31_pipesA.htm)
+
+1. [The Physics Classroom: Physics Tutorial: Sound Waves and Music](https://www.physicsclassroom.com/class/sound)
+   - [Open-End Air Columns](https://www.physicsclassroom.com/class/sound/Lesson-5/Open-End-Air-Columns)
+   - [Closed-End Air Columns](https://www.physicsclassroom.com/class/sound/Lesson-5/Closed-End-Air-Columns)
+
+1. [University NSW: School of Physics: Joe Wolfe | Flute acoustics: an introduction to how a flute works](https://www.phys.unsw.edu.au/jw/fluteacoustics.html)
+
+
 ## Why does the same note-pitch sound different when played on a different musical instrument?
 
 1. [Audio University: Kyle Mathias | Why Do Instruments Sound Different? | 2022](https://audiouniversityonline.com/why-do-instruments-sound-different/)
