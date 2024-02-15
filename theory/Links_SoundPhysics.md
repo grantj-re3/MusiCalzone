@@ -35,14 +35,17 @@
    - Properties of Sinusoids - Origins of the Sine Wave
    - Understanding Sinusoidal Motion - Origins of the Sine Wave
 
-1. [Posy | Every sound is SINE | 2021](https://www.youtube.com/watch?v=UrBZsUBibtk)
+
+### Create any sound by adding sine waves
+
+1. [Posy | Every sound is SINE (video) | 2021](https://www.youtube.com/watch?v=UrBZsUBibtk)
    - You can create any sound by adding sine waves (and changing their level/volume/envelope with time)
 
 1. AwesomeAcoustics en Español | c.2015-2017
-   - [07 The sine wave and sum of waves (interference)](https://www.youtube.com/watch?v=mtDlA66pMAs)
+   - [07 The sine wave and sum of waves (interference) (video)](https://www.youtube.com/watch?v=mtDlA66pMAs)
      * The sine wave
      * Constructive and destructive interference
-   - [08 Additive synthesis: building sounds with sine waves](https://www.youtube.com/watch?v=fwtA2-Nhixw)
+   - [08 Additive synthesis: building sounds with sine waves (video)](https://www.youtube.com/watch?v=fwtA2-Nhixw)
      * Fourier series
      * Synthesising the sound of an oboe
 

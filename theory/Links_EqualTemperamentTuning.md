@@ -15,7 +15,7 @@
      * https://www.youtube.com/@drdaviddarling/playlists
      * https://www.youtube.com/@discovermaths/playlists
 
-1. [AwesomeAcoustics in English | Musical frequencies: tuning systems, Pythagorean tuning - Ep. 03 | 2022](https://www.youtube.com/watch?v=mTnqbXg-dgc)
+1. [AwesomeAcoustics in English | Musical frequencies: tuning systems, Pythagorean tuning - Ep. 03 (video) | 2022](https://www.youtube.com/watch?v=mTnqbXg-dgc)
    - Frequencies of musical notes
    - Octaves
    - Multiplication of roots
