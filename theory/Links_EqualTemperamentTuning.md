@@ -15,6 +15,17 @@
      * https://www.youtube.com/@drdaviddarling/playlists
      * https://www.youtube.com/@discovermaths/playlists
 
+1. [AwesomeAcoustics in English | Musical frequencies: tuning systems, Pythagorean tuning - Ep. 03 | 2022](https://www.youtube.com/watch?v=mTnqbXg-dgc)
+   - Frequencies of musical notes
+   - Octaves
+   - Multiplication of roots
+   - Equal temperament
+   - Cents
+   - Just intonation
+   - 5-limit tuning
+   - Pythagorean tuning
+   - Pythagorean comma
+
 1. [Science'n'me | Equal Temperament vs Just Intonation (video) | 2016](https://www.youtube.com/watch?v=Yqa2Hbb_eIs)
    - Listen to the difference between Equal Temperament chords and Just Intonation chords
 
