@@ -1,13 +1,14 @@
 # The physics of sound and music
 
+1. [Science Sauce: Alex Nixon | Sound: Wavelength, Frequency and Amplitude (video) | 2018](https://www.youtube.com/watch?v=TsQL-sXZOLc)
+   - A short introduction
+
 1. [Pressbooks: David Abbott | Understanding Sound](https://pressbooks.pub/sound/)
-   - In my view this is an excellent book. It consists of 48 web pages / chapers and has very good coverage. Some of the web pages can be read in 5-10 minutes although others may take longer to understand if you are unfamiliar with the concepts. I feel you don't need to read every page... you may be able to skip to the page of interest.
+   - In my view this is an excellent book. It consists of 48 web pages / chapers and has a very wide coverage. Some of the web pages can be read in 5-10 minutes although others may take longer to understand if you are unfamiliar with the concepts. I feel you don't need to read every page... you may be able to skip to the page of interest.
    - This book is free. It is open copyright (CC-BY).
    - An introduction to the physics of sound originally developed for students at Buffalo State College
    - This book is written for high school and college students who do not have much background in science or math. The book deliberately avoids incorporating basic physics topics (like force, energy and pressure) beyond what is absolutely needed for the book. The math is mostly at the 8th grade level- algebra, graph reading, ratio and proportion. There’s no calculus. There’s no trigonometry. The hardest math (logs and roots) is in the sections on decibels and musical intervals. (These sections can be skipped without disrupting the flow of the book).
    - A musical background is not required to understand this book, but it helps. Musicians have valuable experiences- producing sound, listening carefully to sound and (perhaps) reading music. I’ve brought in musical topics in the main text to help those with a musical background understand the material better.
-
-1. [Science Sauce: Alex Nixon | Sound: Wavelength, Frequency and Amplitude (video) | 2018](https://www.youtube.com/watch?v=TsQL-sXZOLc)
 
 1. [Eastern Illinois University: Doug Davis | Excursions in Physics: PHY 3050: Summer 2005: General Course Calendar](https://ux1.eiu.edu/~cfadd/3050/Ch01Intro/Sched.html)
    - [Chapter 11; Waves](https://ux1.eiu.edu/~cfadd/3050/Ch11Waves/ToC.html)
@@ -17,6 +18,33 @@
    - Click on "1. Acoustics" to see the sub-topics
    - [Chapter One: An Acoustics Primer: 7. What is amplitude? | Page 6](https://cmtext.indiana.edu/acoustics/chapter1_amplitude6.php)
    - [Chapter One: An Acoustics Primer: 8. What are wave shapes and spectral content? | Page 2](https://cmtext.indiana.edu/acoustics/chapter1_shape2.php)
+
+
+## Sine / sinusoidal (& cosine) waves
+
+1. [Learnability | Sine Wave | Simple Explanation on a Giant or Ferris Wheel (video) | Trigonometry | 2020](https://www.youtube.com/watch?v=OfuyQV4SN9c)
+
+1. [Better Explained: Kalid Azad | Intuitive Understanding of Sine Waves](https://betterexplained.com/articles/intuitive-understanding-of-sine-waves/)
+
+1. [Akash Murthy | Digital Audio - Origins of the Sine Wave (playlist) | 2020](https://www.youtube.com/playlist?list=PLbqhA-NKGP6DxFIF7K5AhBY9kawUOOM0H)
+   - The first 5 videos deal with maths equations, however the 6th (final) video is a more general discussion
+   - Trigonometric Functions - Origins of the Sine Wave
+   - Unit circles - Origins of the Sine Wave
+   - Degree vs Radian - Origins of the Sine Wave
+   - Sine Function Over Time - Origins of the Sine Wave
+   - Properties of Sinusoids - Origins of the Sine Wave
+   - Understanding Sinusoidal Motion - Origins of the Sine Wave
+
+1. [Posy | Every sound is SINE | 2021](https://www.youtube.com/watch?v=UrBZsUBibtk)
+   - You can create any sound by adding sine waves (and changing their level/volume/envelope with time)
+
+1. AwesomeAcoustics en Español | c.2015-2017
+   - [07 The sine wave and sum of waves (interference)](https://www.youtube.com/watch?v=mtDlA66pMAs)
+     * The sine wave
+     * Constructive and destructive interference
+   - [08 Additive synthesis: building sounds with sine waves](https://www.youtube.com/watch?v=fwtA2-Nhixw)
+     * Fourier series
+     * Synthesising the sound of an oboe
 
 
 ## Standing waves
