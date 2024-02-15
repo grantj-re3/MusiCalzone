@@ -65,6 +65,19 @@
    - [What is a Standing Wave? (video)](https://www.youtube.com/watch?v=aTaT1orpHg8)
    - [Harmonic Frequencies and Standing Waves (video)](https://www.youtube.com/watch?v=Okjtc1UdM6U)
 
+1. [Pennsylvania State University: College of Engineering: Dan Russell | Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html)
+   - Lots of excellent animations showing wave behaviour, including sections:
+     * Sound Waves and Sources: Basic Wave Phenomena
+     * Sound Waves and Sources: Longitudinal Sound Waves
+     * Vibration and Structural Waves: Vibrational Modes of Continuous Systems (includes guitar, piano, violin, tuning fork)
+   - [Standing Sound Waves (Longitudinal Standing Waves)](https://www.acs.psu.edu/drussell/Demos/StandingWaves/StandingWaves.html)
+   - [Longitudinal and Transverse Wave Motion](https://www.acs.psu.edu/drussell/Demos/waves/wavemotion.html)
+   - [Pressure and Particle Displacement Upon Reflection](https://www.acs.psu.edu/drussell/Demos/Reflect-Particles/Reflect-Particles.html)
+   - [What happens at open and closed ends of a pipe?](https://www.acs.psu.edu/drussell/Demos/Pipe-Ends/pipe-ends.html)
+   - [The Plucked Fixed-Fixed String (guitars)](https://www.acs.psu.edu/drussell/Demos/Pluck-Fourier/Pluck-Fourier.html)
+   - [The Struck Fixed-Fixed String (pianos)](https://www.acs.psu.edu/drussell/Demos/StruckString/Struck-Fourier.html)
+   - [The Bowed String (violins)](https://www.acs.psu.edu/drussell/Demos/Bowed-String/Bowed-String.html)
+
 
 ## String vibration
 
