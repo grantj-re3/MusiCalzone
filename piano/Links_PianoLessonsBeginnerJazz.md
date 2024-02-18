@@ -1,8 +1,19 @@
 # Beginner piano lessons: Jazz & lead sheets
 
-## Piano Sauce
+
+To play from lead sheets, you will need to be good at understanding and playing chords and intervals.
+If you are a beginner, the following info may help.
+
+ - [Piano chord charts](https://github.com/grantj-re3/MusiCalzone/blob/master/piano/Links_PianoChordCharts.md)
+ - [grantj-re3 | Intervals, major scale and (natural) minor scale (PDF) | 2023](https://github.com/grantj-re3/MusiCalzone/blob/master/theory/assets/musicIntervalTable.pdf)
+ - [grantj-re3 | How to memorise 7 major & 7 minor chords | 2023](https://github.com/grantj-re3/MusiCalzone/blob/master/theory/7Major7MinorTriads.md)
+
+
+## Piano Sauce - Sam Brown
 
 1. [Play Any Lead Sheet (playlist) | 2023](https://www.youtube.com/playlist?list=PLvmY9Yv_ZjZF87uO3sl6qLCANasrYLsOM)
+
+1. [The Easy Way to Play Melodies With Chords | 2023](https://www.youtube.com/watch?v=SBQoQL1lqcU)
 
 1. [How To Learn Piano as Fast as Humanly Possible | 2023](https://www.youtube.com/watch?v=VZDmmAhQobY) ... The principles of practice
    - Principle I: How to make muscle memory
