@@ -1,13 +1,17 @@
 #!/usr/bin/ruby
 
 require 'optparse'
+require 'net/http'
+require 'uri'
+require 'json'
 
 ##############################################################################
 class Config
   PLAYLIST_LIMIT = 50       # Max playlist size allowed by YouTube
 
   attr_reader :sep, :hm_fields, :field_index, :s_url_video_regex, 
-    :s_url_playlist_prefix, :s_match_audio_video, :max_playlist_size
+    :s_url_playlist_prefix, :num_lookups_before_sleep, :sleep_seconds,
+    :s_match_audio_video, :max_playlist_size, :confirm_ids
 
   def initialize
     @sep         = "|"      # Markdown table: Column separator
@@ -17,14 +21,19 @@ class Config
     @s_url_video_regex      = "https://www.youtube.com/watch.*v="
     @s_url_playlist_prefix  = "https://www.youtube.com/watch_videos?video_ids="
 
+    @num_lookups_before_sleep   = 4
+    @sleep_seconds              = 1.0
+
     @s_match_audio_video    = nil
     @max_playlist_size      = nil
+    @confirm_ids            = nil
     parse_command_line
   end
 
   def parse_command_line
     @s_match_audio_video  = "audio"         # Default value
     @max_playlist_size    = PLAYLIST_LIMIT  # Default value
+    @confirm_ids          = false           # Default value
 
     op = OptionParser.new do |opts|
       opts.banner = <<~EOF
@@ -54,6 +63,10 @@ class Config
           STDERR.puts op.help
           exit(1)
         end
+      end
+
+      opts.on("-c", "--confirm-ids", "Confirm IDs via network probe") do
+        @confirm_ids = true
       end
     end
     begin
@@ -128,6 +141,29 @@ def get_youtube_playlists_from_markdown_table(conf)
 end
 
 ##############################################################################
+def verify_youtube_ids(ids, conf)
+  # Use oEmbed (https://oembed.com/) to verify that the YouTube video exists
+  print "Confirming IDs: "
+  ids.each_with_index{|id, idx|
+    print "."                         # Progress bar
+    $stdout.flush
+    url_oembed = "https://youtube.com/oembed?url=https://www.youtube.com/watch?v=#{id}&format=json"
+    body = Net::HTTP.get(URI.parse(url_oembed))
+    begin
+      params = JSON.parse(body)
+      puts "\nERROR with youtube ID '#{id}': #{body}" unless params["type"] # "type" is a required response param
+    rescue JSON::ParserError => e
+      puts "\nERROR with youtube ID '#{id}': #{body}"
+    end
+    count = idx + 1
+    if count % conf.num_lookups_before_sleep == 0 and count < ids.length
+      sleep conf.sleep_seconds
+    end
+  }
+  puts
+end
+
+##############################################################################
 # Main
 ##############################################################################
 conf = Config.new
@@ -135,4 +171,6 @@ puts "### MAKE YOUTUBE PLAYLIST(S) ###"
 get_youtube_playlists_from_markdown_table(conf).each_with_index{|ids, i|
   puts "\nYoutube #{conf.s_match_audio_video} playlist \##{i+1} (#{ids.length} items):"
   puts "#{conf.s_url_playlist_prefix}#{ids.join(',')}"
+
+  verify_youtube_ids(ids, conf) if conf.confirm_ids
 }
