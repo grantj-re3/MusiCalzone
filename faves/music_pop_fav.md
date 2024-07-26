@@ -3,14 +3,14 @@
 Some of my favourite music from the last 6 decades or so... arranged by year.
 
 - Audio playlists: up to 1975
-  [here](https://www.youtube.com/watch_videos?video_ids=6kX3PZ_ynss,MbnrdCS57d0,z_m4Qb0iW-o,J36z7AnhvOM,pSw8an1u3rc,gGKoFVfdXPs,LAX5GgvS-8s,Qa9mGMdwv0g,fJwjLYRPxJY,pvQMyVoefNI,fR4HjTH_fTM,GlPlfCy1urI,wx6w0GyIIa4,7ByQ0Ne3SMU,eAR_Ff5A8Rk,D_P-v1BVQn8,XvJ3fKWiqvI,Gmq4WIjQxp0,A0F9lh8TiSM,GaH25Sghoqc,hkBziLvefsw,8Hj8BRV8Jls,6ysu2aUCwgk,PPsevhQkn68,2bqm4gRY3mA,ko56rc30qdk,Pc3OnSQc48s)
+  [here](https://www.youtube.com/watch_videos?video_ids=6kX3PZ_ynss,MbnrdCS57d0,z_m4Qb0iW-o,J36z7AnhvOM,pSw8an1u3rc,gGKoFVfdXPs,LAX5GgvS-8s,Qa9mGMdwv0g,fJwjLYRPxJY,pvQMyVoefNI,fR4HjTH_fTM,GlPlfCy1urI,wx6w0GyIIa4,7ByQ0Ne3SMU,eAR_Ff5A8Rk,D_P-v1BVQn8,uuNcvEOazHk,Gmq4WIjQxp0,A0F9lh8TiSM,GaH25Sghoqc,hkBziLvefsw,8Hj8BRV8Jls,6ysu2aUCwgk,PPsevhQkn68,2bqm4gRY3mA,ko56rc30qdk,Pc3OnSQc48s)
   and after 1975
-  [here](https://www.youtube.com/watch_videos?video_ids=Dy4HA3vUv2c,5sYoepCsTTM,_3_8M2eEdok,A822OKFMQTM,vz9pZW5OvM4,Hn-enjcgV1o,tH2w6Oxx0kQ,dBqyX0UUzVQ,4vOq6UPhvDE,PqsHWnDBS0Q,zEuOkapb-_o,-oTxaL2NDkc,iP97m8jwRfE,92cwKCU8Z5c,CkGg1bzfSys,qsYnhVITf9E,LpmVp6s-UiY,aidcJ1aLrRs,xXBNlApwh0c,O596XpES1rI,qt_OkgSOrkU,P85ObJlEyc4,puSkP3uym5k,s5HKLteH9Mc,iCE_4Iqklz4,VHQ0FmUtS0E,Pw3c4E7AuNY)
+  [here](https://www.youtube.com/watch_videos?video_ids=Dy4HA3vUv2c,5sYoepCsTTM,_3_8M2eEdok,A822OKFMQTM,vz9pZW5OvM4,Hn-enjcgV1o,tH2w6Oxx0kQ,dBqyX0UUzVQ,4vOq6UPhvDE,PqsHWnDBS0Q,zEuOkapb-_o,-oTxaL2NDkc,YWkkZcQcb5Q,92cwKCU8Z5c,CkGg1bzfSys,qsYnhVITf9E,LpmVp6s-UiY,aidcJ1aLrRs,xXBNlApwh0c,O596XpES1rI,qt_OkgSOrkU,P85ObJlEyc4,puSkP3uym5k,s5HKLteH9Mc,iCE_4Iqklz4,VHQ0FmUtS0E,Pw3c4E7AuNY)
 
 - Video playlists: up to 1975
-  [here](https://www.youtube.com/watch_videos?video_ids=6kX3PZ_ynss,MbnrdCS57d0,Zx06XNfDvk0,RbnXASVV--M,mRCe5L1imxg,nv33eaygVDQ,j-447NaiBJs,RsY8l0Jg3lY,ZZ0PZRYin2s,o8ByJ1C0iR4,CO9vxjTtkYo,GlPlfCy1urI,wx6w0GyIIa4,jmFHqn0Z0hg,qde5NMy7WTU,D_P-v1BVQn8,bOL5P8t7e5w,Gmq4WIjQxp0,NQHW2PQx42w,mWF1v7W70wU,tx34gAjK4-g,QOFexMWQ1Gs,_bj_32QeAaU,qYiiv7Dr-cA,v3xwCkhmies,v3RigVrLr7s,gl4Y4FWWkn0)
+  [here](https://www.youtube.com/watch_videos?video_ids=6kX3PZ_ynss,MbnrdCS57d0,Zx06XNfDvk0,RbnXASVV--M,mRCe5L1imxg,nv33eaygVDQ,j-447NaiBJs,RsY8l0Jg3lY,ZZ0PZRYin2s,o8ByJ1C0iR4,CO9vxjTtkYo,GlPlfCy1urI,wx6w0GyIIa4,jmFHqn0Z0hg,qde5NMy7WTU,D_P-v1BVQn8,bOL5P8t7e5w,Gmq4WIjQxp0,jboC9-nL0WA,mWF1v7W70wU,tx34gAjK4-g,QOFexMWQ1Gs,_bj_32QeAaU,qYiiv7Dr-cA,v3xwCkhmies,v3RigVrLr7s,gl4Y4FWWkn0)
   and after 1975
-  [here](https://www.youtube.com/watch_videos?video_ids=TbJJ0q2YSc8,mTVpNXG7iBk,0GEuMWkZqF8,A822OKFMQTM,95eWL8s_wRc,Hn-enjcgV1o,tH2w6Oxx0kQ,tJWM5FmZyqU,jeTEqXiGUg0,gZxP3bMn0as,y4rKYxkFIMQ,OsuUfjATZmc,iP97m8jwRfE,iyIOl-s7JTU,m6_wV9DtZTU,qsYnhVITf9E,nKhN1t_7PEY,aidcJ1aLrRs,xXBNlApwh0c,O596XpES1rI,qt_OkgSOrkU,P85ObJlEyc4,puSkP3uym5k,s5HKLteH9Mc,KpsJWFuVTdI,nuxRztsMNzg,8JoAC8rBxac)
+  [here](https://www.youtube.com/watch_videos?video_ids=TbJJ0q2YSc8,mTVpNXG7iBk,0GEuMWkZqF8,A822OKFMQTM,95eWL8s_wRc,Hn-enjcgV1o,tH2w6Oxx0kQ,tJWM5FmZyqU,jeTEqXiGUg0,gZxP3bMn0as,y4rKYxkFIMQ,OsuUfjATZmc,Odcn6qk94bs,iyIOl-s7JTU,m6_wV9DtZTU,qsYnhVITf9E,nKhN1t_7PEY,aidcJ1aLrRs,xXBNlApwh0c,O596XpES1rI,qt_OkgSOrkU,P85ObJlEyc4,puSkP3uym5k,s5HKLteH9Mc,KpsJWFuVTdI,nuxRztsMNzg,8JoAC8rBxac)
 
 
 Title                       | Performers (Year)                   | Composers (Year)          | Links
@@ -31,9 +31,9 @@ Go Away Little Girl         | Donny Osmond (1971)                 | Gerry Goffin
 Hey Tonight                 | Creedence Clearwater Revival (1971) | John Fogerty              | [Audio](https://www.youtube.com/watch?v=7ByQ0Ne3SMU), [Video JF](https://www.youtube.com/watch?v=jmFHqn0Z0hg)
 You've Got a Friend         | Carole King (1971)                  | Carole King               | [Audio](https://www.youtube.com/watch?v=eAR_Ff5A8Rk), [Video](https://www.youtube.com/watch?v=qde5NMy7WTU)
 Alone Again (Naturally)     | Gilbert O'Sullivan (1972)           | Gilbert O'Sullivan        | [Video](https://www.youtube.com/watch?v=D_P-v1BVQn8)
-I Am a Clown                | David Cassidy (1972)                | Tony Romeo                | [Audio](https://www.youtube.com/watch?v=XvJ3fKWiqvI), [Video](https://www.youtube.com/watch?v=bOL5P8t7e5w)
+I Am a Clown                | David Cassidy (1972)                | Tony Romeo                | [Audio](https://www.youtube.com/watch?v=uuNcvEOazHk), [Video](https://www.youtube.com/watch?v=bOL5P8t7e5w)
 It Never Rains in Southern California | Albert Hammond (1972) | Albert Hammond, Mike Hazlewood | [Video](https://www.youtube.com/watch?v=Gmq4WIjQxp0)
-Midnight Train to Georgia   | Gladys Knight & the Pips (1973)     | Jim Weatherly             | [Audio](https://www.youtube.com/watch?v=A0F9lh8TiSM), [Video1](https://www.youtube.com/watch?v=NQHW2PQx42w), [Video2](https://www.youtube.com/watch?v=K2PeC1MkAZE)
+Midnight Train to Georgia   | Gladys Knight & the Pips (1973)     | Jim Weatherly             | [Audio](https://www.youtube.com/watch?v=A0F9lh8TiSM), [Video1](https://www.youtube.com/watch?v=jboC9-nL0WA), [Video2](https://www.youtube.com/watch?v=K2PeC1MkAZE)
 Reelin' In the Years  | Steely Dan (1973)        | Walter Becker, Donald Fagen                    | [Audio](https://www.youtube.com/watch?v=GaH25Sghoqc), [Video](https://www.youtube.com/watch?v=mWF1v7W70wU)
 The Way We Were       | Barbra Streisand (1973)  | Alan Bergman, Marilyn Bergman, Marvin Hamlisch | [Audio](https://www.youtube.com/watch?v=hkBziLvefsw), [Video1 BS](https://www.youtube.com/watch?v=tx34gAjK4-g), [Video2 BS](https://www.youtube.com/watch?v=33FiYOj0XsY), [Video3 Beyonce](https://www.youtube.com/watch?v=H8_3DZpym-0)
 Evie (Parts 1, 2 & 3) | Stevie Wright (1974)     | Harry Vanda, George Young                      | [Audio SW](https://www.youtube.com/watch?v=8Hj8BRV8Jls), [Video1 SW](https://www.youtube.com/watch?v=QOFexMWQ1Gs), [Video2 SW](https://www.youtube.com/watch?v=j34YkVoJMdo), [Video3 TW](https://www.youtube.com/watch?v=y2FRyCoViaI), [Video4 PJ 3:46-15:03](https://www.youtube.com/watch?v=g_yXVsC1s78&t=3m46s)
@@ -54,7 +54,7 @@ Lost Without Your Love  | Bread (1977)           | David Gates                  
 A Man I'll Never Be     | Boston (1978)          | Tom Scholz                                     | [Audio](https://www.youtube.com/watch?v=PqsHWnDBS0Q), [Video](https://www.youtube.com/watch?v=gZxP3bMn0as)
 September Morn          | Neil Diamond (1979) | Gilbert Bécaud, Neil Diamond   | [Audio](https://www.youtube.com/watch?v=zEuOkapb-_o), [Video](https://www.youtube.com/watch?v=y4rKYxkFIMQ)
 Still                   | Commodores (1979)   | Lionel Richie                  | [Audio](https://www.youtube.com/watch?v=-oTxaL2NDkc), [Video](https://www.youtube.com/watch?v=OsuUfjATZmc)
-I Can't Tell You Why    | Eagles (1980)       | Timothy B. Schmit, Glenn Frey, Don Henley | [Video](https://www.youtube.com/watch?v=iP97m8jwRfE)
+I Can't Tell You Why    | Eagles (1980)       | Timothy B. Schmit, Glenn Frey, Don Henley | [Audio](https://www.youtube.com/watch?v=YWkkZcQcb5Q), [Video](https://www.youtube.com/watch?v=Odcn6qk94bs)
 The Winner Takes It All | ABBA (1980)         | Benny Andersson, Björn Ulvaeus | [Audio](https://www.youtube.com/watch?v=92cwKCU8Z5c), [Video](https://www.youtube.com/watch?v=iyIOl-s7JTU)
 Against All Odds        | Phil Collins (1984) | Phil Collins                   | [Audio](https://www.youtube.com/watch?v=CkGg1bzfSys), [Video](https://www.youtube.com/watch?v=m6_wV9DtZTU)
 Bring Him Home (from the musical *Les Misérables*) | Colm Wilkinson (1985)              | Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel, Herbert Kretzmer | [Video](https://www.youtube.com/watch?v=qsYnhVITf9E)
