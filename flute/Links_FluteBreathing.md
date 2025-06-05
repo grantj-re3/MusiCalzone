@@ -2,7 +2,7 @@
 
 ## Breath control
 
-1. [DoctorFlute: Dr. Angela Kinney McBrearty | Breath Control (playlist) | 2018-2023](https://www.youtube.com/playlist?list=PLyAvGjkONBvVd3SkRFcK-yXvoo3ToousJ)
+1. [DoctorFlute: Dr. Angela McBrearty | Breath Control (playlist) | 2018-2023](https://www.youtube.com/playlist?list=PLyAvGjkONBvVd3SkRFcK-yXvoo3ToousJ)
 1. [The Flute Practice: Tatiana Thaele | Exploring Flute Breathing (playlist) | 2016-2019](https://www.youtube.com/playlist?list=PLg66Jjfuwi_1Cu8zdT1BYTlEVwGSVpxsF)
 1. Rebecca Fuller | Breathing Secrets for Flutists | 2020-2024 --
    [Part 1](https://learnfluteonline.com/breathing-secrets-for-flutists/) and
