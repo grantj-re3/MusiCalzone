@@ -9,12 +9,18 @@
 
 ## Legato tonguing
 
+A common way to describe how to play legato on the flute is to only use the tongue to start the first note and slur the remaining notes in the series, for example see:
+[Kansas City Symphony: Kayla Burggraf | MUSIC TALK - Flute Legato (video) | 2021](https://www.youtube.com/watch?app=desktop&v=B_lFQauZGag). (Although Kayla may not be
+using her tongue, you can see movement in her throat at the beginning of each note in the scale.) Below are some alternative descriptions where the tongue *is* used.
+
 1. [Sophia Anastasia | Legato-tonguing explanation (video) | 2020](https://www.youtube.com/watch?v=I9rofkq9rjQ)
 
 1. [Music Lifeboat | Learn From A Master: Flute Lesson 13: Staccato, Legato, Slur, Accent With Musician Elise Shope Henry (video) | 2019](https://www.youtube.com/watch?v=Wl9lZRT7mlE&t=55s)
    - From [this playlist](https://www.youtube.com/playlist?list=PLjolLvS-EDNDhL08H1glgsr9QyXW85c2x)
+   - Try "da" instead of "ta"
 
 1. [Teach Flute: Dr. Naomi Seidman | Staccato Articulation: How To Practice It | 2013](http://www.teachflute.com/2013/04/staccato-articulation-how-to-practice-it.html)
+   - Legato articulation is successfully achieved with the tongue hitting the alveolar ridge, where the gums meet the teeth, with the tip of the tongue. This placement of the tongue is safe for all beginner flutists because the tip of the tongue does not come close to the aperture to disturb the air.
 
 1. Dr. Cate's Flute Tips (Cate Hummel)
    - [Developing a Seamless Legato | 2015](https://drcatesflutetips.wordpress.com/2015/04/13/developing-a-seamless-legato/)
