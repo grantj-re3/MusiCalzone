@@ -8,7 +8,7 @@
 
 ## Finger pressure
 
-1. [Doctor Flute: Dr. Angela McBrearty | Finger Touch | 2017]https://doctorflute.com/finger-touch/
+1. [Doctor Flute: Dr. Angela McBrearty | Finger Touch | 2017]https://doctorflute.com/finger-touch/)
    - [Video](https://www.youtube.com/watch?v=AzFt6S7yLog)
 1. [The Flute Academy: Jane Cavanagh | One big cause (and quick fix) of slow flute fingers | 2019](https://www.flute.school/blog/slow-flute-fingers)
    - [Video](https://www.youtube.com/watch?v=6T8xzkAybng)
@@ -19,5 +19,5 @@
 1. [Doctor Flute: Dr. Angela McBrearty | Finger Positions | 2017](https://doctorflute.com/finger-positions/)
    - [Video](https://www.youtube.com/watch?v=MGEjm4mN8zs)
 1. [Jennifer Cluff | Finger Height | 2019](https://jennifercluff.blogspot.com/2019/12/finger-height.html)
-   - [Video 3m11s-3m35s](https://www.youtube.com/watch?v=Rg8LfBRRR0o&t=3m11s)
+   - [Video, 3m11s-3m35s](https://www.youtube.com/watch?v=Rg8LfBRRR0o&t=3m11s)
 
