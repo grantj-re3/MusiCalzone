@@ -1,7 +1,7 @@
 # Flute: Embouchure
 
 1. :thumbsup: [The United States Army Band "Pershing's Own": SSG Carol Joe | Beginning Flute Series: Embouchure (video) | 2020](https://www.youtube.com/watch?v=HgEgAwl3B9U)
-
+1. [Band Directors Talk Shop: Emily Moran | Flute Embouchure: Simple Steps for Great Success! | 2016-2019](https://banddirectorstalkshop.com/flute-embouchure/)
 1. [The Flute Practice: Tatiana Thaele | Fix your excessively tight embouchure – Tips and exercises for flutists | 2022-2023](https://theflutepractice.com/blog/dealing-with-a-tight-embouchure/)
    - :thumbsup: [Is a tight embouchure holding you back? Let’s fix it! (video) | 2022](https://www.youtube.com/watch?v=fx5DDl_AMbk)
    - [Flute tone made simple: two things you NEED to play the flute (video) | 2022](https://www.youtube.com/watch?v=2-pUCSOhuac)

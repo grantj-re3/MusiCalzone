@@ -1,7 +1,7 @@
 # Flute: Tonguing & articulation
 
 1. [Allegro Music Publishing: Karen North | Mastering the Art of Tonguing: A Guide for Flute Beginners | 2024](https://www.allegromusicpublishing.com/post/mastering-the-art-of-tonguing-a-guide-for-flute-beginners)
-
+1. [Band Directors Talk Shop: Emily Moran | Tonguing and Embouchure Flexibility for Beginning Flute | 2016-2019](https://banddirectorstalkshop.com/tonguing-embouchure-flexibility-beginning-flute/)
 
 ## Tongue position
 
