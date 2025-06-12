@@ -7,6 +7,7 @@
    - [Flute tone made simple: two things you NEED to play the flute (video) | 2022](https://www.youtube.com/watch?v=2-pUCSOhuac)
 
 1. [The Flute Channel: Amelie Brodeur | Basic Embouchure for the Flute (video) | 2015](https://www.youtube.com/watch?v=rSjOje7Trsw)
+1. [The Flute Nerd: Alexandra Petropoulos | Why You’re Probably Overthinking Your Flute Embouchure | 2025](https://theflutenerd.com/the-myth-of-perfect-flute-embouchure/)
 
 
 ## Doctor Flute: Dr. Angela McBrearty
@@ -17,4 +18,12 @@
 1. [Relax Your Embouchure to Improve Your Tone - FluteTips 154 (video) | 2022](https://www.youtube.com/watch?v=EOpkY4ppN_Q)
 1. [I Can't Relax My Embouchure FluteTips 81 (video) | 2019](https://www.youtube.com/watch?v=X1AuZxThCIk)
 1. [Tight Embouchure No Problem - FluteTips 182 (video) | 2024](https://www.youtube.com/watch?v=HWCmSLUKaik)
+
+
+## Embouchure for a teardrop top lip
+
+1. *The Flute Nerd | Why You’re Probably Overthinking Your Flute Embouchure* article above. Mentions a "pronounced dip in the top lip".
+1. [Dr. Cate's Flute Tips (Cate Hummel) | Flute Embouchure and a Teardrop Top Lip | 2015](https://drcatesflutetips.wordpress.com/2015/08/30/flute-embouchure-and-a-teardrop-top-lip/)
+1. [The Flute Academy: Jane Cavanagh | How to play the flute with a teardrop lip! (video) | 2020](https://www.youtube.com/watch?v=8FMHJbkdijk)
+1. [CaneMajor | The Teardrop Flute Embouchure (short video) | 2024](https://www.youtube.com/shorts/kqCIB9Qlsuw)
 

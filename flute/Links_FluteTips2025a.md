@@ -17,4 +17,5 @@
 
 1. [Band Directors Talk Shop: Erin Kendall Murphy | Troubleshooting Flute Tone | 2017-2019](https://banddirectorstalkshop.com/troubleshooting-flute-tone/)
 1. [Band Directors Talk Shop: Erin Kendall Murphy | Flute Basics: Fixing Fingering Problems | 2018-2019](https://banddirectorstalkshop.com/flute-basics-fixing-fingering-problems/)
+1. [Doctor Flute: Dr. Angela McBrearty | Flute Masterclass 5 Methods to Improve Your Tone Today (playlist) | 2018](https://www.youtube.com/playlist?list=PLyAvGjkONBvXYZR2zGyrcFLOE20ibF7j3)
 

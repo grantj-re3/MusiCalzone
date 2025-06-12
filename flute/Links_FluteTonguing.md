@@ -5,8 +5,8 @@
 
 ## Tongue position
 
-1. [April Clayton - Flute Tube | Quick Fix for Tongue Placement and Sound (video shorts)](https://www.youtube.com/shorts/5P3ST7ClvJ4)
-1. [tonebase Flute: Jennifer Grim | Relax the Tongue (video shorts)](https://www.youtube.com/shorts/grwLKweC4Wo)
+1. [April Clayton - Flute Tube | Quick Fix for Tongue Placement and Sound (short video) | 2022](https://www.youtube.com/shorts/5P3ST7ClvJ4)
+1. [tonebase Flute: Jennifer Grim | Relax the Tongue (short video) | 2024](https://www.youtube.com/shorts/grwLKweC4Wo)
 1. [The Flute Practice: Tatiana Thaele | Do you have the WRONG idea about flute tonguing? (video) | 2019](https://www.youtube.com/watch?v=Nbdg6X_DXXE)
 
 
@@ -42,4 +42,11 @@ using her tongue, you can see movement in her throat at the beginning of each no
 1. [Emily Beynon | ARTICULATION: flute TUTORIAL (video) | 2020](https://www.youtube.com/watch?v=AuNjvqEMRgU)
    - Air | release not attack | double tonguing | triplet tonguing | variety of lengths |
      varying the consonant | repeated notes | grape-pip articulation | finger tonguing | slurs
+
+
+## Doctor Flute: Dr. Angela McBrearty
+
+1. [Articulating Low Notes - FluteTips 73 (video) | 2019](https://www.youtube.com/watch?v=Cx2k1WLrhuE)
+1. [Practice Articulation to Improve Your Tone - FluteTips 155 (video) | 2022](https://www.youtube.com/watch?v=LhOCQNtlbCQ&t=1m25s)
+1. [Let's Talk Articulation - Focus on Your Tah - FluteTips 179 (video) | 2023](https://www.youtube.com/watch?v=vGw_vnUsmBk)
 
