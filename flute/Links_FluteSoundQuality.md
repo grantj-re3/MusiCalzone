@@ -24,4 +24,5 @@
 ## Flute Registers
 
 1. [Lance Suzuki | Flute Registers Explained (How to Play Low Notes, Middle Register & High Notes with Ease) (video) | 2021](https://www.youtube.com/watch?v=4y7UK8F-fMk)
+   - You can find details of the physics of sound and music, including harmonics, air column vibrations and how a flute works [here](../theory/Links_SoundPhysics.md)
 
