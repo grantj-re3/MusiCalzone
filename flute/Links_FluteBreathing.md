@@ -9,6 +9,13 @@
    [Part 2](https://learnfluteonline.com/breathing-secrets-for-flutists-part-2/)
 
 
+## Airflow
+
+1. [tonebase Flute | 4 Professional Flutists Teach Airflow & Resonance (video) | 2023](https://www.youtube.com/watch?v=qQ7jtVB2VxI)
+   - Air should enter the embouchure hole (on the flute's head joint) at an angle of about 45°
+   - Puckered lips can help direct your jet of air
+
+
 ## Circular breathing
 
 1. :thumbsup: [Earspasm Music: Michael Lowenstern | Learn how to Circular Breathe in 10 minutes. Really. (video) | 2016](https://www.youtube.com/watch?v=qcyY0tsGm6A) -- for bass clarinet
