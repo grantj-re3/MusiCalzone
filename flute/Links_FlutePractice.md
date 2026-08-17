@@ -3,6 +3,9 @@
 - *Repetition is the mother of skill [Tony Robbins / Zig Ziglar / Latin proverb]*
 - *Practicing... Find a way to enjoy it. Be creative. Change your battle tactics. Repetition, yes, but not drudgery. [Leonard Garrison]*
 
+My flute practice routine is [here](pov/My_FlutePractice.md). It isn't suitable for serious musicians, but is reasonable
+for adult, slow learning hackers like me! :smiley:
+
 The articles below are written for children, university students, online self-learners and those in-between.
 You might want to cherry pick the main points or specific points based on where you are in your learning journey.
 
@@ -18,7 +21,7 @@ You might want to cherry pick the main points or specific points based on where 
    - [Part 2: Metronome](http://www.leonardgarrison.com/practice-2/)
 
 1. :thumbsup: [The Flute Practice: Tatiana | Slow it Down, Break it Down | 2024](https://theflutepractice.com/blog/slow-it-down-break-it-down/)
-   - Break it down or slow it down!
+   - *Break it down or slow it down!*
    - Formula:
      * Difficulty of a section = The speed of the section X The length of the section
      * The higher the speed and length of the section you are playing the more difficult the section will be. But, by lowering 
