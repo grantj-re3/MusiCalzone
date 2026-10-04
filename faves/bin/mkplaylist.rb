@@ -151,9 +151,9 @@ def verify_youtube_ids(ids, conf)
     body = Net::HTTP.get(URI.parse(url_oembed))
     begin
       params = JSON.parse(body)
-      puts "\nERROR with youtube ID '#{id}': #{body}" unless params["type"] # "type" is a required response param
+      puts "\nERROR(1) with youtube ID '#{id}': #{body}" unless params["type"] # "type" is a required response param
     rescue JSON::ParserError => e
-      puts "\nERROR with youtube ID '#{id}': #{body}"
+      puts "\nERROR(2) with youtube ID '#{id}': #{body}"
     end
     count = idx + 1
     if count % conf.num_lookups_before_sleep == 0 and count < ids.length
